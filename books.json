@@ -1,2181 +1,2505 @@
-[  
-  {  
+[
+  {
     "title":"APIs on Rails",
-    "authors":[  
+    "authors":[
       "Abraham Kuri Vargas"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"http://apionrails.icalialabs.com/book",
-    "categories":[  
+    "categories":[
       "API"
     ],
-    "prices":"html: $0"
+    "prices":"html: $0",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Advanced Rails",
-    "authors":[  
+    "authors":[
       "Brad Ediger"
     ],
     "year":"2007",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596510329.do",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $27.99, paperbook: $34.99"
+    "prices":"ebook: $27.99, paperbook: $34.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Agile Web Development with Rails (3rd edition)",
-    "authors":[  
+    "authors":[
       "Sam Ruby",
       "Dave Thomas",
       "David Heinemeier Hansson"
     ],
     "year":"2009",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/rails3/agile-web-development-with-rails",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $24.00"
+    "prices":"ebook: $24.00",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Agile Web Development with Rails 3.2",
-    "authors":[  
+    "authors":[
       "Sam Ruby"
     ],
     "year":"2013",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/rails32/agile-web-development-with-rails-3-2",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $27.00, paperbook: $43.95"
+    "prices":"ebook: $27.00, paperbook: $43.95",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Agile Web Development with Rails 4",
-    "authors":[  
+    "authors":[
       "Sam Ruby"
     ],
     "year":"2013",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/rails4/agile-web-development-with-rails-4",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $27.00, paperbook: $54.75"
+    "prices":"ebook: $27.00, paperbook: $54.75",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Ajax on Rails: Build Dynamic Web Applications with Ruby",
-    "authors":[  
+    "authors":[
       "Scott Raymond"
     ],
     "year":"2007",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596527440.do",
-    "categories":[  
+    "categories":[
       "Rails",
       "Ajax"
     ],
-    "prices":"ebook: $31.99, paperbook: $39.99"
+    "prices":"ebook: $31.99, paperbook: $39.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"AngularJS + Rails",
-    "authors":[  
+    "authors":[
       "Jonathan Birkholz",
       "Jesse Wolgamott"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/angularails",
-    "categories":[  
+    "categories":[
       "AngularJS"
     ],
-    "prices":"ebook: $25"
+    "prices":"ebook: $25",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Application Testing with Capybara",
-    "authors":[  
+    "authors":[
       "Matthew Robbins"
     ],
     "year":"2013",
-    "editor":"Packt Publishing",
     "url":"http://www.packtpub.com/application-testing-with-capybara/book",
-    "categories":[  
+    "categories":[
       "testing"
     ],
-    "prices":"ebook: $20, paperbook: $34"
+    "prices":"ebook: $20, paperbook: $34",
+    "editors":[
+      "Packt Publishing"
+    ]
   },
-  {  
+  {
     "title":"Aptana RadRails: An IDE for Rails Development",
-    "authors":[  
+    "authors":[
       "Javier Ramirez"
     ],
     "year":"2008",
-    "editor":"Packt Publishing",
     "url":"http://shop.oreilly.com/product/9781847193988.do",
-    "categories":[  
+    "categories":[
       "IDE"
     ],
-    "prices":"ebook: $23.99"
+    "prices":"ebook: $23.99",
+    "editors":[
+      "Packt Publishing"
+    ]
   },
-  {  
+  {
     "title":"Backbone.js on Rails",
-    "authors":[  
+    "authors":[
       "thoughtbot"
     ],
     "year":"2012",
-    "editor":"thoughtbot",
     "url":"https://learn.thoughtbot.com/products/1-backbone-js-on-rails",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $29"
+    "prices":"ebook: $29",
+    "editors":[
+      "thoughtbot"
+    ]
   },
-  {  
+  {
     "title":"Beginning Core Data with RubyMotion",
-    "authors":[  
+    "authors":[
       "Stefan Haflidason"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/beginning-core-data-for-ruby-motion",
-    "categories":[  
+    "categories":[
       "iOS"
     ],
-    "prices":"ebook: $10"
+    "prices":"ebook: $10",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Beginning Google Maps Applications with Rails and Ajax",
-    "authors":[  
+    "authors":[
       "Rails ajax"
     ],
     "year":"2007",
-    "editor":"apress",
     "url":"http://www.apress.com/9781590597873",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $24.99, paperbook: $34.99"
+    "prices":"ebook: $24.99, paperbook: $34.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Beginning Rails",
-    "authors":[  
+    "authors":[
       "Cloves Carneiro Jr.",
       "Hampton Catlin",
       "Jeffrey Allan Hardy"
     ],
     "year":"2007",
-    "editor":"apress",
     "url":"http://www.apress.com/9781590596869",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $24.99, paperbook: $34.99"
+    "prices":"ebook: $24.99, paperbook: $34.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Beginning Rails 3",
-    "authors":[  
+    "authors":[
       "Rida Al Barazi",
       "Cloves Carneiro Jr",
       "Cloves Carneiro"
     ],
     "year":"2010",
-    "editor":"apress",
     "url":"http://www.apress.com/9781430224334",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $27.99, paperbook: $39.99"
+    "prices":"ebook: $27.99, paperbook: $39.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Beginning Rails 4",
-    "authors":[  
+    "authors":[
       "Adam Gamble",
       "Cloves Carneiro Jr",
       "Rida Al Barazi"
     ],
     "year":"2013",
-    "editor":"apress",
     "url":"http://www.apress.com/9781430260349",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $34.99, paperbook: $49.99"
+    "prices":"ebook: $34.99, paperbook: $49.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Beginning Ruby on Rails",
-    "authors":[  
+    "authors":[
       "Steve Holzner"
     ],
     "year":"2007",
-    "editor":"Wiley / Wrox",
     "url":"http://shop.oreilly.com/product/9780470069158.do",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $34.99"
+    "prices":"ebook: $34.99",
+    "editors":[
+      "Wiley / Wrox"
+    ]
   },
-  {  
+  {
     "title":"Beginning Ruby on Rails E-Commerce",
-    "authors":[  
+    "authors":[
       "Jarkko Laine",
       "Christian Hellsten"
     ],
     "year":"2006",
-    "editor":"apress",
     "url":"http://www.apress.com/9781590597361",
-    "categories":[  
+    "categories":[
       "Rails",
       "ecommerce"
     ],
-    "prices":"ebook: $24.99, paperbook: $34.99"
+    "prices":"ebook: $24.99, paperbook: $34.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Beginning Ruby: From Novice to Professional",
-    "authors":[  
+    "authors":[
       "Peter Cooper"
     ],
     "year":"2009",
-    "editor":"apress",
     "url":"http://www.apress.com/9781430223634/",
-    "categories":[  
+    "categories":[
       "ruby"
     ],
-    "prices":"ebook: $27.99, paperbook: $39.99"
+    "prices":"ebook: $27.99, paperbook: $39.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Best of Ruby Quiz",
-    "authors":[  
+    "authors":[
       "James Edward Gray II"
     ],
     "year":"2006",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/fr_quiz/best-of-ruby-quiz",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Build Awesome Command-Line Applications in Ruby: Control Your Computer, Simplify Your Life",
-    "authors":[  
+    "authors":[
       "David Bryant Copeland"
     ],
     "year":"2012",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/dccar/build-awesome-command-line-applications-in-ruby",
-    "categories":[  
+    "categories":[
       "scripting"
     ],
-    "prices":"ebook: $23.00, paperbook: $9.95"
+    "prices":"ebook: $23.00, paperbook: $9.95",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Build a Ruby Gem",
-    "authors":[  
+    "authors":[
       "Brandon Hilker"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"http://brandonhilkert.com/books/build-a-ruby-gem/",
-    "categories":[  
+    "categories":[
       "gem"
     ],
-    "prices":"ebook: $39"
+    "prices":"ebook: $39",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Build your own Rails server",
-    "authors":[  
+    "authors":[
       "Michael Trojanek"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"http://www.relativkreativ.at/ebook",
-    "categories":[  
+    "categories":[
       "deployment"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Building Dynamic Web 2.0 Websites with Ruby on Rails",
-    "authors":[  
+    "authors":[
       "A P Rajshekhar"
     ],
     "year":"2008",
-    "editor":"Packt Publishing",
     "url":"http://shop.oreilly.com/product/9781847193414.do",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $20.99"
+    "prices":"ebook: $20.99",
+    "editors":[
+      "Packt Publishing"
+    ]
   },
-  {  
+  {
     "title":"Capistrano and the Rails Application Lifecycle",
-    "authors":[  
+    "authors":[
       "Tom Mornini",
       "Marc Loy"
     ],
     "year":"2006",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596529628.do",
-    "categories":[  
+    "categories":[
       "deployment"
     ],
-    "prices":"ebook: $9.99"
+    "prices":"ebook: $9.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Clean Ruby: Write obvious, intention-revealing programs that stay manageable as your code grows",
-    "authors":[  
+    "authors":[
       "Jim Gay"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"http://www.clean-ruby.com/",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $42"
+    "prices":"ebook: $42",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Cloning Internet Applications with Ruby",
-    "authors":[  
+    "authors":[
       "Chang Sau Sheong"
     ],
     "year":"2010",
-    "editor":"Packt Publishing",
     "url":"http://www.packtpub.com/cloning-internet-applications-with-ruby/book",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $20.39, paperbook: $39.99"
+    "prices":"ebook: $20.39, paperbook: $39.99",
+    "editors":[
+      "Packt Publishing"
+    ]
   },
-  {  
+  {
     "title":"Computer Science Programming Basics in Ruby: Exploring Concepts and Curriculum with Ruby",
-    "authors":[  
+    "authors":[
       "Ophir Frieder",
       "Gideon Frieder",
       "David Grossman"
     ],
     "year":"2013",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/0636920028192.do",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $19.99, paperbook: $24.99"
+    "prices":"ebook: $19.99, paperbook: $24.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Confident Ruby",
-    "authors":[  
+    "authors":[
       "Avdi Grim"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"http://devblog.avdi.org/2013/08/26/confident-ruby-is-finished/",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $35"
+    "prices":"ebook: $35",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Constructing Large Scale Enterprise Applications With Ruby And Rails",
-    "authors":[  
+    "authors":[
       "Karan Singh Garewal"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/largescalesystems",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $10"
+    "prices":"ebook: $10",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Crafting Rails 4 Applications, 2nd Edition: Expert Practices for Everyday Rails Development",
-    "authors":[  
+    "authors":[
       "José Valim"
     ],
     "year":"2013",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://shop.oreilly.com/product/9781937785550.do",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $36.00"
+    "prices":"ebook: $36.00",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development",
-    "authors":[  
+    "authors":[
       "José Valim"
     ],
     "year":"2013",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/jvrails2/crafting-rails-4-applications",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $24.00, paperbook: $46.00"
+    "prices":"ebook: $24.00, paperbook: $46.00",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Crafting Rails Applications: Expert Practices for Everyday Rails Development",
-    "authors":[  
+    "authors":[
       "José Valim"
     ],
     "year":"2011",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/jvrails/crafting-rails-applications",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $24.00, paperbook: $33.00"
+    "prices":"ebook: $24.00, paperbook: $33.00",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Debugging Ruby: Debugging Ruby code & Rails applications by example",
-    "authors":[  
+    "authors":[
       "Ryan Bigg"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"https://leanpub.com/debuggingruby",
-    "categories":[  
+    "categories":[
       "debugging"
     ],
-    "prices":"ebook: $10"
+    "prices":"ebook: $10",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Deploy Rails BlueBook 2014 Edition",
-    "authors":[  
+    "authors":[
       "John B. Wyatt IV"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/deployrailsbluebook",
-    "categories":[  
+    "categories":[
       "deployment"
     ],
-    "prices":"ebook: $10"
+    "prices":"ebook: $10",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night",
-    "authors":[  
+    "authors":[
       "Tom Copeland",
       "Anthony Burns"
     ],
     "year":"2012",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/cbdepra/deploying-rails",
-    "categories":[  
+    "categories":[
       "deployment"
     ],
-    "prices":"ebook: $23.00, paperbook: $9.95"
+    "prices":"ebook: $23.00, paperbook: $9.95",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Deploying with JRuby: Deliver Scalable Web Apps using the JVM",
-    "authors":[  
+    "authors":[
       "Joe Kutner"
     ],
     "year":"2012",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/jkdepj/deploying-with-jruby",
-    "categories":[  
+    "categories":[
       "JRuby",
       "deployment"
     ],
-    "prices":"ebook: $24.00, paperbook: $9.95"
+    "prices":"ebook: $24.00, paperbook: $9.95",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Design Patterns in Ruby",
-    "authors":[  
+    "authors":[
       "Russ Olsen"
     ],
     "year":"2007",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/design-patterns-in-ruby-9780321490452",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $35.19, paperbook: $43.99"
+    "prices":"ebook: $35.19, paperbook: $43.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Developing Games With Ruby",
-    "authors":[  
+    "authors":[
       "Tomas Varaneckas"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/developing-games-with-ruby",
-    "categories":[  
+    "categories":[
       "game"
     ],
-    "prices":"ebook: $15"
+    "prices":"ebook: $15",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Distributed Programming with Ruby",
-    "authors":[  
+    "authors":[
       "Mark Bates"
     ],
     "year":"2009",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/distributed-programming-with-ruby-9780321638366",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $25.59, paperbook: $31.99"
+    "prices":"ebook: $25.59, paperbook: $31.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Easy Active Record for Rails Developers",
-    "authors":[  
+    "authors":[
       "W. Jason Gilmore"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"http://www.easyactiverecord.com/",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Effective Ruby: 48 Specific Ways to Write Better Ruby",
-    "authors":[  
+    "authors":[
       "Peter J. Jones"
     ],
     "year":"2014",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/effective-ruby-48-specific-ways-to-write-better-ruby-9780133846973",
-    "categories":[  
+    "categories":[
       "ruby"
     ],
-    "prices":"ebook: $31.99, paperbook: $39.99"
+    "prices":"ebook: $31.99, paperbook: $39.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Eloquent Ruby",
-    "authors":[  
+    "authors":[
       "Russ Olsen"
     ],
     "year":"2011",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/eloquent-ruby-9780321584106",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $25.59, paperbook: $35.99"
+    "prices":"ebook: $25.59, paperbook: $35.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Enterprise Integration with Ruby",
-    "authors":[  
+    "authors":[
       "Maik Schmidt"
     ],
     "year":"2006",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/fr_eir/enterprise-integration-with-ruby",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Enterprise Rails",
-    "authors":[  
+    "authors":[
       "Dan Chak"
     ],
     "year":"2008",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596515201.do",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $35.99, paperbook: $44.99"
+    "prices":"ebook: $35.99, paperbook: $44.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Enterprise Recipes with Ruby and Rails",
-    "authors":[  
+    "authors":[
       "Maik Schmidt"
     ],
     "year":"2008",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/msenr/enterprise-recipes-with-ruby-and-rails",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Everyday Rails Testing with RSpec: A practical approach to test-driven development",
-    "authors":[  
+    "authors":[
       "Aaron Sumner"
     ],
     "year":"2012",
-    "editor":"Self Published",
     "url":"https://leanpub.com/everydayrailsrspec?",
-    "categories":[  
+    "categories":[
       "Rails",
       "testing"
     ],
-    "prices":"ebook: $12"
+    "prices":"ebook: $12",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Everyday Scripting with Ruby: for Teams, Testers, and You",
-    "authors":[  
+    "authors":[
       "Brian Marick"
     ],
     "year":"2007",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/bmsft/everyday-scripting-with-ruby",
-    "categories":[  
+    "categories":[
       "scripting"
     ],
-    "prices":"ebook: $22.00, paperbook: $29.95"
+    "prices":"ebook: $22.00, paperbook: $29.95",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Exceptional Ruby: Master the art of handling failure in Ruby",
-    "authors":[  
+    "authors":[
       "Avdi Grim"
     ],
     "year":"2011",
-    "editor":"Self Published",
     "url":"http://exceptionalruby.com/",
-    "categories":[  
+    "categories":[
       "exceptions"
     ],
-    "prices":"ebook: $15"
+    "prices":"ebook: $15",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Exploring Everyday Things with R and Ruby: Discover the world around you through programming",
-    "authors":[  
+    "authors":[
       "Sau Sheong Chang"
     ],
     "year":"2012",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/0636920022626.do",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $23.99, paperbook: $29.99"
+    "prices":"ebook: $23.99, paperbook: $29.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"FXRuby: Create Lean and Mean GUIs with Ruby",
-    "authors":[  
+    "authors":[
       "Lyle Johnson"
     ],
     "year":"2008",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/fxruby/fxruby",
-    "categories":[  
+    "categories":[
       "GUI"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Fearless Rails Deployment",
-    "authors":[  
+    "authors":[
       "Zach Campbell"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://railsdeploymentbook.com/",
-    "categories":[  
+    "categories":[
       "deployment",
       "Rails"
     ],
-    "prices":"ebook: $40"
+    "prices":"ebook: $40",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Fearless Refactoring: Rails Controllers",
-    "authors":[  
+    "authors":[
       "Andrzej Krzywda"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"http://rails-refactoring.com/",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $35"
+    "prices":"ebook: $35",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Flex on Rails: Building Rich Internet Applications with Adobe Flex 3 and Rails 2",
-    "authors":[  
+    "authors":[
       "Tony Hillerson",
       "Daniel Wanja"
     ],
     "year":"2008",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/flex-on-rails-building-rich-internet-applications-with-9780132651554",
-    "categories":[  
+    "categories":[
       "Flex"
     ],
-    "prices":"ebook: $31.99"
+    "prices":"ebook: $31.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Foundation Rails 2",
-    "authors":[  
+    "authors":[
       "Eldon Alameda"
     ],
     "year":"2008",
-    "editor":"apress",
     "url":"http://www.apress.com/9781430210399",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $30.99, paperbook: $42.99"
+    "prices":"ebook: $30.99, paperbook: $42.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"From Java To Ruby: Things Every Manager Should Know",
-    "authors":[  
+    "authors":[
       "Bruce A. Tate"
     ],
     "year":"2006",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/fr_j2r/from-java-to-ruby",
-    "categories":[  
+    "categories":[
       "Java"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Functional Programming in Ruby",
-    "authors":[  
+    "authors":[
       "Koen Handekyn"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/functionalprogramminginruby",
-    "categories":[  
+    "categories":[
       "functional"
     ],
-    "prices":"ebook: $5"
+    "prices":"ebook: $5",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Geocoding on Rails: Your Map to Geocoding Rails Applications",
-    "authors":[  
+    "authors":[
       "Josh Clayton",
       "Laila Winner"
     ],
     "year":"2013",
-    "editor":"thoughtbot",
     "url":"https://learn.thoughtbot.com/products/22-geocoding-on-rails",
-    "categories":[  
+    "categories":[
       "Rails",
       "geocoding"
     ],
-    "prices":"ebook: $29"
+    "prices":"ebook: $29",
+    "editors":[
+      "thoughtbot"
+    ]
   },
-  {  
+  {
     "title":"Growing Rails Applications in Practice",
-    "authors":[  
+    "authors":[
       "Henning Koch",
       "Thomas Eisenbarth"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/growing-rails",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Head First Rails: A learner's companion to Ruby on Rails",
-    "authors":[  
+    "authors":[
       "David Griffiths"
     ],
     "year":"2008",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596515775.do",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $39.99, paperbook: $49.99"
+    "prices":"ebook: $39.99, paperbook: $49.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Instant Sinatra Starter",
-    "authors":[  
+    "authors":[
       "Joe Yates"
     ],
     "year":"2013",
-    "editor":"Packt Publishing",
     "url":"http://www.packtpub.com/sinatra-starter/book",
-    "categories":[  
+    "categories":[
       "Sinatra"
     ],
-    "prices":"ebook: $12.99"
+    "prices":"ebook: $12.99",
+    "editors":[
+      "Packt Publishing"
+    ]
   },
-  {  
+  {
     "title":"iOS on Rails",
-    "authors":[  
+    "authors":[
       "Jessie Young"
     ],
     "year":"2014",
-    "editor":"thoughtbot",
     "url":"https://learn.thoughtbot.com/products/25-ios-on-rails-beta",
-    "categories":[  
+    "categories":[
       "Rails",
       "iOS"
     ],
-    "prices":"ebook: $29"
+    "prices":"ebook: $29",
+    "editors":[
+      "thoughtbot"
+    ]
   },
-  {  
+  {
     "title":"IronRuby Unleashed",
-    "authors":[  
+    "authors":[
       "Shay Friedman"
     ],
     "year":"2010",
-    "editor":"Sams",
     "url":"http://www.informit.com/store/ironruby-unleashed-9780672330780",
-    "categories":[  
+    "categories":[
       "IronRuby"
     ],
-    "prices":"ebook: $31.99, paperbook: $39.99"
+    "prices":"ebook: $31.99, paperbook: $39.99",
+    "editors":[
+      "Sams"
+    ]
   },
-  {  
+  {
     "title":"JRuby Cookbook",
-    "authors":[  
+    "authors":[
       "Justin Edelson",
       "Henry Liu"
     ],
     "year":"2008",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596519650.do",
-    "categories":[  
+    "categories":[
       "JRuby"
     ],
-    "prices":"ebook: $27.99, paperbook: $34.99"
+    "prices":"ebook: $27.99, paperbook: $34.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Jump Start Rails",
-    "authors":[  
+    "authors":[
       "Andy Hawthorne"
     ],
     "year":"2013",
-    "editor":"SitePoint",
     "url":"http://www.sitepoint.com/store/jump-start-rails/",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $18.99, paperbook: $29.95"
+    "prices":"ebook: $18.99, paperbook: $29.95",
+    "editors":[
+      "SitePoint"
+    ]
   },
-  {  
+  {
     "title":"Jump Start Sinatra",
-    "authors":[  
+    "authors":[
       "Darren Jones"
     ],
     "year":"2013",
-    "editor":"SitePoint",
     "url":"http://www.sitepoint.com/store/jump-start-sinatra/",
-    "categories":[  
+    "categories":[
       "Sinatra"
     ],
-    "prices":"ebook: $19.99"
+    "prices":"ebook: $19.99",
+    "editors":[
+      "SitePoint"
+    ]
   },
-  {  
+  {
     "title":"Kestrels, Quirky Birds, and Hopeless Egocentricity",
-    "authors":[  
+    "authors":[
       "Reginald Braithwaite"
     ],
     "year":"2012",
-    "editor":"Self Published",
     "url":"http://combinators.info/",
-    "categories":[  
+    "categories":[
       "metaprogramming"
     ],
-    "prices":"ebook: $16"
+    "prices":"ebook: $16",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Learn Ruby Programming by Examples",
-    "authors":[  
+    "authors":[
       "Zhimin Zhan",
       "Courtney Zhan"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/learn_ruby_programming_by_examples_en",
-    "categories":[  
+    "categories":[
       "ruby"
     ],
-    "prices":"ebook: $10"
+    "prices":"ebook: $10",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Learn Ruby on Rails",
-    "authors":[  
+    "authors":[
       "Daniel Kehoe"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"http://learn-rails.com/",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Learn to Program (2nd edition)",
-    "authors":[  
+    "authors":[
       "Chris Pine"
     ],
     "year":"2009",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/ltp2/learn-to-program",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $18.50, paperbook: $24.95"
+    "prices":"ebook: $18.50, paperbook: $24.95",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Learning Rails 3: Rails from the Outside In",
-    "authors":[  
+    "authors":[
       "Simon St. Laurent",
       "Edd Dumbill",
       "Eric J Gruber"
     ],
     "year":"2012",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/0636920021322.do",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $27.99, paperbook: $34.99"
+    "prices":"ebook: $27.99, paperbook: $34.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Learning Ruby: The Language that Powers Rails",
-    "authors":[  
+    "authors":[
       "Michael Fitzgerald"
     ],
     "year":"2007",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596529864.do",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $27.99, paperbook: $34.99"
+    "prices":"ebook: $27.99, paperbook: $34.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Making Use of Ruby",
-    "authors":[  
+    "authors":[
       "Suresh Mahadevan"
     ],
     "year":"2003",
-    "editor":"Wiley",
     "url":"http://shop.oreilly.com/product/9780471219729.do",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $40.00"
+    "prices":"ebook: $40.00",
+    "editors":[
+      "Wiley"
+    ]
   },
-  {  
+  {
     "title":"Mastering Modern Payments: Using Stripe with Rails",
-    "authors":[  
+    "authors":[
       "Pete Keen"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"https://www.petekeen.net/mastering-modern-payments",
-    "categories":[  
+    "categories":[
       "Rails",
       "ecommerce"
     ],
-    "prices":"ebook: $29"
+    "prices":"ebook: $29",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Merb Way, The",
-    "authors":[  
+    "authors":[
       "Foy Savas"
     ],
     "year":"2009",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/merb-way-9780132651684",
-    "categories":[  
+    "categories":[
       "Merb"
     ],
-    "prices":"ebook: $25.59"
+    "prices":"ebook: $25.59",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Metaprogramming Ruby: Program Like the Ruby Pros",
-    "authors":[  
+    "authors":[
       "Paolo Perrotta"
     ],
     "year":"2010",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/ppmetr/metaprogramming-ruby",
-    "categories":[  
+    "categories":[
       "metaprogramming"
     ],
-    "prices":"ebook: $24.00, paperbook: $9.95"
+    "prices":"ebook: $24.00, paperbook: $9.95",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Mongrel (Digital Shortcut): Serving, Deploying, and Extending Your Ruby Applications",
-    "authors":[  
+    "authors":[
       "Matt Pelletier",
       "Zed Shaw"
     ],
     "year":"2006",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/mongrel-digital-shortcut-serving-deploying-and-extending-9780321483508",
-    "categories":[  
+    "categories":[
       "deployment"
     ],
-    "prices":"ebook: $19.99"
+    "prices":"ebook: $19.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Mr. Neighborly's Humble Little Ruby Book",
-    "authors":[  
+    "authors":[
       "Jeremy McAnally"
     ],
     "year":"2006",
-    "editor":"Self Published",
     "url":"http://www.humblelittlerubybook.com/",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $0, paperbook: $10"
+    "prices":"ebook: $0, paperbook: $10",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Much Ado About Naught",
-    "authors":[  
+    "authors":[
       "Avdi Grim"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"http://devblog.avdi.org/introduction-to-much-ado-about-naught/",
-    "categories":[  
+    "categories":[
       "metaprogramming"
     ],
-    "prices":"ebook: $15"
+    "prices":"ebook: $15",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Multitenancy with Rails",
-    "authors":[  
+    "authors":[
       "Ryan Bigg"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"https://leanpub.com/multi-tenancy-rails",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $20"
+    "prices":"ebook: $20",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"NetBeans Ruby and Rails IDE with JRuby",
-    "authors":[  
+    "authors":[
       "Chris Kutler",
       "Brian Leonard"
     ],
     "year":"2008",
-    "editor":"apress",
     "url":"http://www.apress.com/9781430216360",
-    "categories":[  
+    "categories":[
       "Rails",
       "JRuby"
     ],
-    "prices":"ebook: $20.99, paperbook: $29.99"
+    "prices":"ebook: $20.99, paperbook: $29.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Objects on Rails: Notes on flexible web application design",
-    "authors":[  
+    "authors":[
       "Avdi Grim"
     ],
     "year":"2012",
-    "editor":"Self Published",
     "url":"http://objectsonrails.com/",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $5"
+    "prices":"ebook: $5",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Practical JRuby on Rails Web 2.0 Projects",
-    "authors":[  
+    "authors":[
       "Ola Bini"
     ],
     "year":"2007",
-    "editor":"apress",
     "url":"http://www.apress.com/9781590598818",
-    "categories":[  
+    "categories":[
       "Rails",
       "JRuby"
     ],
-    "prices":"ebook: $30.99, paperbook: $42.99"
+    "prices":"ebook: $30.99, paperbook: $42.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Practical Microservices with Ruby",
-    "authors":[  
+    "authors":[
       "Gosha Arinich"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"http://practicalmicroservices.com/",
-    "categories":[  
+    "categories":[
       "Rails",
       "services"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Practical Object-Oriented Design in Ruby: An Agile Primer",
-    "authors":[  
+    "authors":[
       "Sandi Metz"
     ],
     "year":"2012",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/practical-object-oriented-design-in-ruby-an-agile-primer-9780321721334",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $25.59, paperbook: $31.99"
+    "prices":"ebook: $25.59, paperbook: $31.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Practical REST on Rails 2 Projects",
-    "authors":[  
+    "authors":[
       "Ben Scofield"
     ],
     "year":"2008",
-    "editor":"apress",
     "url":"http://www.apress.com/9781590599945",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $30.99, paperbook: $42.99"
+    "prices":"ebook: $30.99, paperbook: $42.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Practical Rails Plugins",
-    "authors":[  
+    "authors":[
       "Nick Plante",
       "David Berube"
     ],
     "year":"2008",
-    "editor":"apress",
     "url":"http://www.apress.com/9781590599938",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $27.99, paperbook: $39.99"
+    "prices":"ebook: $27.99, paperbook: $39.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Practical Rails Projects",
-    "authors":[  
+    "authors":[
       "Eldon Alameda"
     ],
     "year":"2007",
-    "editor":"apress",
     "url":"http://www.apress.com/9781590597811",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $31.99, paperbook: $44.99"
+    "prices":"ebook: $31.99, paperbook: $44.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Practical Rails Social Networking Sites",
-    "authors":[  
+    "authors":[
       "Alan Bradburne"
     ],
     "year":"2007",
-    "editor":"apress",
     "url":"http://www.apress.com/9781590598412",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $31.99, paperbook: $44.99"
+    "prices":"ebook: $31.99, paperbook: $44.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Practical Reporting with Ruby and Rails",
-    "authors":[  
+    "authors":[
       "David Berube"
     ],
     "year":"2008",
-    "editor":"apress",
     "url":"http://www.apress.com/9781590599334",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $30.99, paperbook: $42.99"
+    "prices":"ebook: $30.99, paperbook: $42.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Practical Ruby Gems",
-    "authors":[  
+    "authors":[
       "David Berube"
     ],
     "year":"2007",
-    "editor":"apress",
     "url":"http://www.apress.com/9781590598115",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $39.99, paperbook: $27.99"
+    "prices":"ebook: $39.99, paperbook: $27.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Practical Ruby Projects",
-    "authors":[  
+    "authors":[
       "Topher Cyll"
     ],
     "year":"2007",
-    "editor":"apress",
     "url":"http://www.apress.com/9781590599112",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $31.99, paperbook: $44.99"
+    "prices":"ebook: $31.99, paperbook: $44.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Practical Ruby for System Administration",
-    "authors":[  
+    "authors":[
       "André Ben Hamou"
     ],
     "year":"2007",
-    "editor":"apress",
     "url":"http://www.apress.com/9781590598214",
-    "categories":[  
+    "categories":[
       "scripting"
     ],
-    "prices":"ebook: $31.99, paperbook: $44.99"
+    "prices":"ebook: $31.99, paperbook: $44.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Practicing Rails: A Guide to Learning Rails Without Getting Overwhelmed",
-    "authors":[  
+    "authors":[
       "Justin Weiss"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"http://www.justinweiss.com/book/",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Pro Active Record",
-    "authors":[  
+    "authors":[
       "Chad Pytel",
       "Jon Yurek",
       "Kevin Marshall"
     ],
     "year":"2007",
-    "editor":"apress",
     "url":"http://www.apress.com/9781590598474",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $27.99, paperbook: $39.99"
+    "prices":"ebook: $27.99, paperbook: $39.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Professional Ruby on Rails",
-    "authors":[  
+    "authors":[
       "Noel Rappin"
     ],
     "year":"2008",
-    "editor":"Wiley / Wrox",
     "url":"http://shop.oreilly.com/product/9780470223888.do",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $39.99"
+    "prices":"ebook: $39.99",
+    "editors":[
+      "Wiley / Wrox"
+    ]
   },
-  {  
+  {
     "title":"Programming Cocoa with Ruby: Create Compelling Mac Apps Using RubyCocoa",
-    "authors":[  
+    "authors":[
       "Brian Marick"
     ],
     "year":"2009",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/bmrc/programming-cocoa-with-ruby",
-    "categories":[  
+    "categories":[
       "Mac"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Programming Ruby (2nd edition): The Pragmatic Programmers' Guide",
-    "authors":[  
+    "authors":[
       "Dave Thomas",
       "with Chad Fowler",
       "Andy Hunt"
     ],
     "year":"2004",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/ruby/programming-ruby",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $25.00, paperbook: $44.95"
+    "prices":"ebook: $25.00, paperbook: $44.95",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Programming Ruby 1.9 & 2.0 (4th edition): The Pragmatic Programmers' Guide",
-    "authors":[  
+    "authors":[
       "Dave Thomas",
       "with Chad Fowler",
       "Andy Hunt"
     ],
     "year":"2013",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $28.00, paperbook: $50.00"
+    "prices":"ebook: $28.00, paperbook: $50.00",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Programming Ruby 1.9 (3rd edition): The Pragmatic Programmers' Guide",
-    "authors":[  
+    "authors":[
       "Dave Thomas",
       "with Chad Fowler",
       "Andy Hunt"
     ],
     "year":"2009",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/ruby3/programming-ruby-1-9",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"RJS Templates for Rails",
-    "authors":[  
+    "authors":[
       "Cody Fauser"
     ],
     "year":"2006",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596528096.do",
-    "categories":[  
+    "categories":[
       "Rails",
       "Ajax"
     ],
-    "prices":"ebook: $9.99"
+    "prices":"ebook: $9.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Rails 3 Way, The, 2nd Edition",
-    "authors":[  
+    "authors":[
       "Obie Fernandez"
     ],
     "year":"2010",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/rails-3-way-9780321601667",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $31.99, paperbook: $39.99"
+    "prices":"ebook: $31.99, paperbook: $39.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Rails AntiPatterns: Best Practice Ruby on Rails Refactoring",
-    "authors":[  
+    "authors":[
       "Chad Pytel",
       "Tammer Saleh"
     ],
     "year":"2010",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/rails-antipatterns-best-practice-ruby-on-rails-refactoring-9780321604811",
-    "categories":[  
+    "categories":[
       "Rails",
       "refactoring"
     ],
-    "prices":"ebook: $28.79, paperbook: $35.99"
+    "prices":"ebook: $28.79, paperbook: $35.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Rails As She Is Spoke",
-    "authors":[  
+    "authors":[
       "Giles Bowkett"
     ],
     "year":"2012",
-    "editor":"Self Published",
     "url":"http://railsoopbook.com/",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $37"
+    "prices":"ebook: $37",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Rails Cookbook: Recipes for Rapid Web Development with Ruby",
-    "authors":[  
+    "authors":[
       "Rob Orsini"
     ],
     "year":"2007",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596527310.do",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $31.99, paperbook: $39.99"
+    "prices":"ebook: $31.99, paperbook: $39.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Rails Crash Course",
-    "authors":[  
+    "authors":[
       "Anthony Lewis"
     ],
     "year":"2014",
-    "editor":"No Starch Press",
     "url":"http://www.nostarch.com/railscrashcourse",
-    "categories":[  
+    "categories":[
       "Rais"
     ],
-    "prices":"ebook: $28, paperbook: $35"
+    "prices":"ebook: $28, paperbook: $35",
+    "editors":[
+      "No Starch Press"
+    ]
   },
-  {  
+  {
     "title":"Rails Pocket Reference: A Quick Guide to Rails",
-    "authors":[  
+    "authors":[
       "Eric Berry"
     ],
     "year":"2008",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596520717.do",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $7.99, paperbook: $14.99"
+    "prices":"ebook: $7.99, paperbook: $14.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Rails Recipes: Rails 3 Edition",
-    "authors":[  
+    "authors":[
       "Chad Fowler"
     ],
     "year":"2012",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/rr2/rails-recipes",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $25.00, paperbook: $9.95"
+    "prices":"ebook: $25.00, paperbook: $9.95",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Rails Routing (Digital Shortcut)",
-    "authors":[  
+    "authors":[
       "David A. Black"
     ],
     "year":"2007",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/rails-routing-digital-shortcut-9780321509246",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $19.99"
+    "prices":"ebook: $19.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Rails Solutions",
-    "authors":[  
+    "authors":[
       "Justin Williams"
     ],
     "year":"2007",
-    "editor":"apress",
     "url":"http://www.apress.com/9781590597521",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $24.99, paperbook: $34.99"
+    "prices":"ebook: $24.99, paperbook: $34.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Rails Test Prescriptions: Keeping Your Application Healthy",
-    "authors":[  
+    "authors":[
       "Noel Rappin"
     ],
     "year":"2011",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/nrtest/rails-test-prescriptions",
-    "categories":[  
+    "categories":[
       "Rails",
       "testing"
     ],
-    "prices":"ebook: $25.00, paperbook: $9.95"
+    "prices":"ebook: $25.00, paperbook: $9.95",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Rails Way, The",
-    "authors":[  
+    "authors":[
       "Obie Fernandez"
     ],
     "year":"2007",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/rails-way-9780321445612",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $35.19, paperbook: $43.99"
+    "prices":"ebook: $35.19, paperbook: $43.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Rails for .NET Developers",
-    "authors":[  
+    "authors":[
       "Jeff Cohen",
       "Brian Eng"
     ],
     "year":"2008",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/cerailn/rails-for-net-developers",
-    "categories":[  
+    "categories":[
       "Windows"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Rails for Java Developers",
-    "authors":[  
+    "authors":[
       "Stuart Halloway",
       "Justin Gehtland"
     ],
     "year":"2007",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/fr_r4j/rails-for-java-developers",
-    "categories":[  
+    "categories":[
       "Java"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Rails on Windows",
-    "authors":[  
+    "authors":[
       "Curt Hibbs",
       "Brian P. Hogan"
     ],
     "year":"2009",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596529659.do",
-    "categories":[  
+    "categories":[
       "Windows"
     ],
-    "prices":"ebook: $9.99"
+    "prices":"ebook: $9.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Rails: Up and Running, 2nd Edition: Lightning-Fast Web Development",
-    "authors":[  
+    "authors":[
       "Bruce A. Tate",
       "Lance Carlson",
       "Curt Hibbs"
     ],
     "year":"2008",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596522018.do",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $23.99, paperbook: $29.99"
+    "prices":"ebook: $23.99, paperbook: $29.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"RailsSpace: Building a Social Networking Website with Ruby on Rails™",
-    "authors":[  
+    "authors":[
       "Michael Hartl",
       "Aurelius Prochazka"
     ],
     "year":"2007",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/railsspace-building-a-social-networking-website-with-9780321480798",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $35.19, paperbook: $43.99"
+    "prices":"ebook: $35.19, paperbook: $43.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Refactoring in Ruby",
-    "authors":[  
+    "authors":[
       "William C. Wake",
       "Kevin Rutherford"
     ],
     "year":"2009",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/refactoring-in-ruby-9780132651400",
-    "categories":[  
+    "categories":[
       "refactoring"
     ],
-    "prices":"ebook: $28.79"
+    "prices":"ebook: $28.79",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Refactoring: Ruby Edition",
-    "authors":[  
+    "authors":[
       "Jay Fields",
       "Shane Harvie",
       "Martin Fowler",
       "Kent Beck"
     ],
     "year":"2009",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/refactoring-ruby-edition-9780321603500",
-    "categories":[  
+    "categories":[
       "refactoring"
     ],
-    "prices":"ebook: $31.99, paperbook: $39.99"
+    "prices":"ebook: $31.99, paperbook: $39.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Reliably Deploying Rails Applications",
-    "authors":[  
+    "authors":[
       "Ben Dixon"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/deploying_rails_applications",
-    "categories":[  
+    "categories":[
       "deployment"
     ],
-    "prices":"ebook: $20"
+    "prices":"ebook: $20",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Riding Rails with AngularJS",
-    "authors":[  
+    "authors":[
       "Ari Lerner"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"https://leanpub.com/angularjs-rails",
-    "categories":[  
+    "categories":[
       "AngularJS"
     ],
-    "prices":"ebook: $16"
+    "prices":"ebook: $16",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Ruby Best Practices: Increase Your Productivity - Write Better Code",
-    "authors":[  
+    "authors":[
       "Gregory T Brown"
     ],
     "year":"2009",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596523015.do",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $27.99, paperbook: $34.99"
+    "prices":"ebook: $27.99, paperbook: $34.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Ruby Cookbook: Recipes for Object Oriented Scripting",
-    "authors":[  
+    "authors":[
       "Lucas Carlson",
       "Leonard Richardson"
     ],
     "year":"2006",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596523695.do",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $39.99, paperbook: $49.99"
+    "prices":"ebook: $39.99, paperbook: $49.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Ruby Developers Guide",
-    "authors":[  
+    "authors":[
       "Syngress"
     ],
     "year":"2002",
-    "editor":"Elsevier / Syngress",
     "url":"http://shop.oreilly.com/product/9781928994640.do",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $51.95"
+    "prices":"ebook: $51.95",
+    "editors":[
+      "Elsevier / Syngress"
+    ]
   },
-  {  
+  {
     "title":"Ruby Hacking Guide",
-    "authors":[  
+    "authors":[
       "Minero AOKI"
     ],
     "year":"2004",
-    "editor":"Self Published",
     "url":"http://ruby-hacking-guide.github.io/",
-    "categories":[  
+    "categories":[
       "ruby-internals"
     ],
-    "prices":"ebook: $0"
+    "prices":"ebook: $0",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Ruby Kin",
-    "authors":[  
+    "authors":[
       "Doug Wright"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/rubykin",
-    "categories":[  
+    "categories":[
       "children"
     ],
-    "prices":"ebook: $1"
+    "prices":"ebook: $1",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Ruby Performance Book",
-    "authors":[  
+    "authors":[
       "Alexander Dymo"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"http://ruby-performance-book.com/",
-    "categories":[  
+    "categories":[
       "performance"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Ruby Phrasebook",
-    "authors":[  
+    "authors":[
       "Jason D. Clinton"
     ],
     "year":"2008",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/ruby-phrasebook-9780672328978",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $12.79, paperbook: $15.99"
+    "prices":"ebook: $12.79, paperbook: $15.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Ruby Pocket Reference",
-    "authors":[  
+    "authors":[
       "Michael Fitzgerald"
     ],
     "year":"2007",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596514815.do",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $7.99, paperbook: $9.99"
+    "prices":"ebook: $7.99, paperbook: $9.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Ruby Quick Syntax Reference",
-    "authors":[  
+    "authors":[
       "Matt Clements"
     ],
     "year":"2014",
-    "editor":"apress",
     "url":"http://www.apress.com/9781430265689",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $13.99, paperbook: $19.99"
+    "prices":"ebook: $13.99, paperbook: $19.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Ruby Science: The reference for writing fantastic Rails applications",
-    "authors":[  
+    "authors":[
       "thoughtbot"
     ],
     "year":"2013",
-    "editor":"thoughtbot",
     "url":"https://learn.thoughtbot.com/products/13-ruby-science",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $29"
+    "prices":"ebook: $29",
+    "editors":[
+      "thoughtbot"
+    ]
   },
-  {  
+  {
     "title":"Ruby Under a Microscope: An Illustrated Guide to Ruby Internals",
-    "authors":[  
+    "authors":[
       "Pat Shaughnessy"
     ],
     "year":"2013",
-    "editor":"No Starch Press",
     "url":"http://nostarch.com/rum",
-    "categories":[  
+    "categories":[
       "ruby-internals"
     ],
-    "prices":"ebook: $31.95, paperbook: $39.95"
+    "prices":"ebook: $31.95, paperbook: $39.95",
+    "editors":[
+      "No Starch Press"
+    ]
   },
-  {  
+  {
     "title":"Ruby Way, Second Edition, The: Solutions and Techniques in Ruby Programming, 2nd Edition",
-    "authors":[  
+    "authors":[
       "Hal Fulton"
     ],
     "year":"2006",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/ruby-way-second-edition-solutions-and-techniques-in-9780672328848",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $31.99, paperbook: $39.99"
+    "prices":"ebook: $31.99, paperbook: $39.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Ruby Way, The",
-    "authors":[  
+    "authors":[
       "Hal Fulton"
     ],
     "year":"2001",
-    "editor":"Sams",
     "url":"http://www.informit.com/store/ruby-way-9780672320835",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $25.59, paperbook: $31.99"
+    "prices":"ebook: $25.59, paperbook: $31.99",
+    "editors":[
+      "Sams"
+    ]
   },
-  {  
+  {
     "title":"Ruby Wizardry: An Introduction to Programming for Kids",
-    "authors":[  
+    "authors":[
       "Eric Weinstein"
     ],
     "year":"2014",
-    "editor":"No Starch Press",
     "url":"http://www.nostarch.com/rubywizardry",
-    "categories":[  
+    "categories":[
       "children"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "No Starch Press"
+    ]
   },
-  {  
+  {
     "title":"Ruby and MongoDB Web Development Beginner's Guide",
-    "authors":[  
+    "authors":[
       "Gautam Rege"
     ],
     "year":"2012",
-    "editor":"Packt Publishing",
     "url":"http://www.packtpub.com/ruby-and-mongodb-web-development-beginners-guide/book",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $26.99, paperbook: $44.99"
+    "prices":"ebook: $26.99, paperbook: $44.99",
+    "editors":[
+      "Packt Publishing"
+    ]
   },
-  {  
+  {
     "title":"Ruby by Example: Concepts and Code",
-    "authors":[  
+    "authors":[
       "Kevin C. Baird"
     ],
     "year":"2007",
-    "editor":"No Starch Press",
     "url":"http://shop.oreilly.com/product/9781593271480.do",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $23.95, paperbook: $29.95"
+    "prices":"ebook: $23.95, paperbook: $29.95",
+    "editors":[
+      "No Starch Press"
+    ]
   },
-  {  
+  {
     "title":"Ruby in a Nutshell",
-    "authors":[  
+    "authors":[
       "Yukihiro Matsumoto"
     ],
     "year":"2001",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596002145.do",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $19.99, paperbook: $24.95"
+    "prices":"ebook: $19.99, paperbook: $24.95",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Ruby on Rails Explained for Front-End Developers",
-    "authors":[  
+    "authors":[
       "Miles Matthias"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"https://leanpub.com/rorfrontend",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $5"
+    "prices":"ebook: $5",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Ruby on Rails For Dummies",
-    "authors":[  
+    "authors":[
       "Barry Burd"
     ],
     "year":"2007",
-    "editor":"Wiley / For Dummies",
     "url":"http://www.dummies.com/store/product/productCd-0470134895.html",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $22.99, paperbook: $34.99"
+    "prices":"ebook: $22.99, paperbook: $34.99",
+    "editors":[
+      "Wiley / For Dummies"
+    ]
   },
-  {  
+  {
     "title":"Ruby on Rails Tutorial 2nd edition: Learn Web Development with Rails (with Rails 4 chapter)",
-    "authors":[  
+    "authors":[
       "Michael Hartl"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"http://ruby.railstutorial.org/#buy",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $45"
+    "prices":"ebook: $45",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Ruby on Rails Tutorial: Learn Web Development with Rails",
-    "authors":[  
+    "authors":[
       "Michael Hartl"
     ],
     "year":"2010",
-    "editor":"Self Published",
     "url":"http://ruby.railstutorial.org/",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $0, paperbook: $29"
+    "prices":"ebook: $0, paperbook: $29",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Ruby on Rails Web Mashup Projects",
-    "authors":[  
+    "authors":[
       "Chang Sau Sheong"
     ],
     "year":"2008",
-    "editor":"Packt Publishing",
     "url":"http://shop.oreilly.com/product/9781847193933.do",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $26.99"
+    "prices":"ebook: $26.99",
+    "editors":[
+      "Packt Publishing"
+    ]
   },
-  {  
+  {
     "title":"Ruby on Rails for Microsoft Developers",
-    "authors":[  
+    "authors":[
       "Antonio Cangiano"
     ],
     "year":"2009",
-    "editor":"Wiley / Wrox",
     "url":"http://shop.oreilly.com/product/9780470374955.do",
-    "categories":[  
+    "categories":[
       "Windows"
     ],
-    "prices":"ebook: $49.99"
+    "prices":"ebook: $49.99",
+    "editors":[
+      "Wiley / Wrox"
+    ]
   },
-  {  
+  {
     "title":"Ruby on Rails for PHP and Java Developers",
-    "authors":[  
+    "authors":[
       "Deepak Vohra"
     ],
     "year":"2007",
-    "editor":"apress",
     "url":"http://www.apress.com/9783540731443",
-    "categories":[  
+    "categories":[
       "Rails",
       "PHP"
     ],
-    "prices":"ebook: $69.95"
+    "prices":"ebook: $69.95",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Ruby on Rails: Up and Running: Lightning Fast Web Development",
-    "authors":[  
+    "authors":[
       "Bruce A. Tate",
       "Curt Hibbs"
     ],
     "year":"2006",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596101329.do",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $23.99"
+    "prices":"ebook: $23.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"RubyMotion",
-    "authors":[  
+    "authors":[
       "Clay Allsopp"
     ],
     "year":"2012",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/carubym/rubymotion",
-    "categories":[  
+    "categories":[
       "iOS"
     ],
-    "prices":"ebook: $14.00, paperbook: $17.00"
+    "prices":"ebook: $14.00, paperbook: $17.00",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Rubyisms in Rails (Digital Short Cut)",
-    "authors":[  
+    "authors":[
       "Jacob Harris"
     ],
     "year":"2006",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/rubyisms-in-rails-digital-short-cut-9780321474070",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $14.99"
+    "prices":"ebook: $14.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Sams Teach Yourself Ruby in 21 Days",
-    "authors":[  
+    "authors":[
       "Mark Slagell"
     ],
     "year":"2002",
-    "editor":"Sams",
     "url":"http://www.informit.com/store/sams-teach-yourself-ruby-in-21-days-9780672322525",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $31.99, paperbook: $31.99"
+    "prices":"ebook: $31.99, paperbook: $31.99",
+    "editors":[
+      "Sams"
+    ]
   },
-  {  
+  {
     "title":"Scripted GUI Testing with Ruby",
-    "authors":[  
+    "authors":[
       "Ian Dees"
     ],
     "year":"2008",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/idgtr/scripted-gui-testing-with-ruby",
-    "categories":[  
+    "categories":[
       "testing",
       "GUI"
     ],
-    "prices":"ebook: $22.00"
+    "prices":"ebook: $22.00",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Scripting Intelligence",
-    "authors":[  
+    "authors":[
       "Mark Watson"
     ],
     "year":"2009",
-    "editor":"apress",
     "url":"http://www.apress.com/9781430223511",
-    "categories":[  
+    "categories":[
       "scripting"
     ],
-    "prices":"ebook: $30.99, paperbook: $42.99"
+    "prices":"ebook: $30.99, paperbook: $42.99",
+    "editors":[
+      "apress"
+    ]
   },
-  {  
+  {
     "title":"Security on Rails",
-    "authors":[  
+    "authors":[
       "Ben Poweski",
       "David Raphael"
     ],
     "year":"2009",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://shop.oreilly.com/product/9781934356487.do",
-    "categories":[  
+    "categories":[
       "Rails",
       "security"
     ],
-    "prices":"ebook: $34.95"
+    "prices":"ebook: $34.95",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Selenium Recipes in Ruby",
-    "authors":[  
+    "authors":[
       "Zhimin Zhan"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/selenium_recipes",
-    "categories":[  
+    "categories":[
       "testing"
     ],
-    "prices":"ebook: $10"
+    "prices":"ebook: $10",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Service-Oriented Design with Ruby and Rails",
-    "authors":[  
+    "authors":[
       "Paul Dix"
     ],
     "year":"2010",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/service-oriented-design-with-ruby-and-rails-9780321659361",
-    "categories":[  
+    "categories":[
       "Rails",
       "services"
     ],
-    "prices":"ebook: $31.99, paperbook: $39.99"
+    "prices":"ebook: $31.99, paperbook: $39.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Sinatra: Up and Running: Ruby for the Web, Simply",
-    "authors":[  
+    "authors":[
       "Alan Harris",
       "Konstantin Haase"
     ],
     "year":"2011",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/0636920019664.do",
-    "categories":[  
+    "categories":[
       "Sinatra"
     ],
-    "prices":"ebook: $12.99, paperbook: $19.99"
+    "prices":"ebook: $12.99, paperbook: $19.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Software As A Disservice",
-    "authors":[  
+    "authors":[
       "Giles Bowkett"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"http://gilesbowkett.blogspot.com/2013/10/new-ebook-software-as-disservice-fixing.html",
-    "categories":[  
+    "categories":[
       "Rails",
       "refactoring"
     ],
-    "prices":"ebook: $23"
+    "prices":"ebook: $23",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Test Driven Ajax (on Rails)",
-    "authors":[  
+    "authors":[
       "Phlip"
     ],
     "year":"2007",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596510657.do",
-    "categories":[  
+    "categories":[
       "testing",
       "Ajax"
     ],
-    "prices":"ebook: $9.99"
+    "prices":"ebook: $9.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"Text Processing with Ruby",
-    "authors":[  
+    "authors":[
       "Rob Miller"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/tpwr",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $7"
+    "prices":"ebook: $7",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"The Art of Rails",
-    "authors":[  
+    "authors":[
       "Edward Benson"
     ],
     "year":"2008",
-    "editor":"Wiley / Wrox",
     "url":"http://shop.oreilly.com/product/9780470189481.do",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $39.99"
+    "prices":"ebook: $39.99",
+    "editors":[
+      "Wiley / Wrox"
+    ]
   },
-  {  
+  {
     "title":"The Bastards Book of Ruby: A Programming Primer for Counting and Other Unconventional Tasks",
-    "authors":[  
+    "authors":[
       "Dan Nguyen"
     ],
     "year":"2011",
-    "editor":"Self Published",
     "url":"http://ruby.bastardsbook.com/",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $0"
+    "prices":"ebook: $0",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"The Book of Ruby: A Hands-On Guide for the Adventurous",
-    "authors":[  
+    "authors":[
       "Huw Collingbourne"
     ],
     "year":"2011",
-    "editor":"No Starch Press",
     "url":"http://shop.oreilly.com/product/9781593272944.do",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $31.95, paperbook: $39.95"
+    "prices":"ebook: $31.95, paperbook: $39.95",
+    "editors":[
+      "No Starch Press"
+    ]
   },
-  {  
+  {
     "title":"The Cucumber Book: Behaviour-Driven Development for Testers and Developers",
-    "authors":[  
+    "authors":[
       "Matt Wynne",
       "Aslak Hellesøy"
     ],
     "year":"2012",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/hwcuc/the-cucumber-book",
-    "categories":[  
+    "categories":[
       "testing"
     ],
-    "prices":"ebook: $23.00, paperbook: $30.00"
+    "prices":"ebook: $23.00, paperbook: $30.00",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"The Happy Lambda",
-    "authors":[  
+    "authors":[
       "Arne Brasseur"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/happylambda",
-    "categories":[  
+    "categories":[
       "functional"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"The RSpec Book: Behaviour-Driven Development with RSpec, Cucumber, and Friends",
-    "authors":[  
+    "authors":[
       "David Chelimsky",
       "Dave Astels",
       "Zach Dennis",
@@ -2184,136 +2508,156 @@
       "Dan North"
     ],
     "year":"2010",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/achbd/the-rspec-book",
-    "categories":[  
+    "categories":[
       "testing"
     ],
-    "prices":"ebook: $27.00, paperbook: $38.95"
+    "prices":"ebook: $27.00, paperbook: $38.95",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"The Rails View: Create a Beautiful and Maintainable User Experience",
-    "authors":[  
+    "authors":[
       "John Athayde",
       "Bruce Williams"
     ],
     "year":"2012",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/warv/the-rails-view",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $25.00, paperbook: $35.00"
+    "prices":"ebook: $25.00, paperbook: $35.00",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"The Rake Field Manual",
-    "authors":[  
+    "authors":[
       "Avdi Grim"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"http://www.rakefieldmanual.com/",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $25"
+    "prices":"ebook: $25",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"The Ruby Programming Language",
-    "authors":[  
+    "authors":[
       "David Flanagan",
       "Yukihiro Matsumoto"
     ],
     "year":"2008",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596516178.do",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $31.99, paperbook: $39.99"
+    "prices":"ebook: $31.99, paperbook: $39.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"The dRuby Book: Distributed and Parallel Computing with Ruby",
-    "authors":[  
+    "authors":[
       "Masatoshi Seki"
     ],
     "year":"2012",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/sidruby/the-druby-book",
-    "categories":[  
+    "categories":[
       "concurrency"
     ],
-    "prices":"ebook: $25.00, paperbook: $9.95"
+    "prices":"ebook: $25.00, paperbook: $9.95",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Trailblazer A New Architecture For Rails",
-    "authors":[  
+    "authors":[
       "Nick Sutterer"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/trailblazer",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $5"
+    "prices":"ebook: $5",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Troubleshooting Ruby Processes: Leveraging System Tools when the Usual Ruby Tricks Stop Working (Digital Short Cut)",
-    "authors":[  
+    "authors":[
       "Philippe Hanrigou"
     ],
     "year":"2007",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/troubleshooting-ruby-processes-leveraging-system-tools-9780321544681",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $12.99"
+    "prices":"ebook: $12.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   },
-  {  
+  {
     "title":"Unfuck A Monorail For Great Justice",
-    "authors":[  
+    "authors":[
       "Giles Bowkett"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"http://gilesbowkett.blogspot.com/2013/03/new-ebook-unfuck-monorail-for-great.html",
-    "categories":[  
+    "categories":[
       "Rails",
       "refactoring"
     ],
-    "prices":"ebook: $41"
+    "prices":"ebook: $41",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Upgrade to Rails 4: A thorough guide for upgrading your Rails 3 app",
-    "authors":[  
+    "authors":[
       "Philip De Smedt"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"https://leanpub.com/upgradetorails4",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $10"
+    "prices":"ebook: $10",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Upgrading to Rails 4",
-    "authors":[  
+    "authors":[
       "Andy Lindeman"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"http://www.upgradingtorails4.com/",
-    "categories":[  
+    "categories":[
       "Rails"
     ],
-    "prices":"ebook: $15"
+    "prices":"ebook: $15",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Using JRuby: Bringing Ruby to Java",
-    "authors":[  
+    "authors":[
       "Charles O Nutter",
       "Thomas Enebo",
       "Nick Sieger",
@@ -2321,129 +2665,149 @@
       "Ian Dees"
     ],
     "year":"2011",
-    "editor":"Pragmatic Bookshelf",
     "url":"http://pragprog.com/book/jruby/using-jruby",
-    "categories":[  
+    "categories":[
       "JRuby"
     ],
-    "prices":"ebook: $25.00, paperbook: $9.95"
+    "prices":"ebook: $25.00, paperbook: $9.95",
+    "editors":[
+      "Pragmatic Bookshelf"
+    ]
   },
-  {  
+  {
     "title":"Web Application Testing in Ruby",
-    "authors":[  
+    "authors":[
       "Željko Filipin"
     ],
     "year":"2014",
-    "editor":"Self Published",
     "url":"https://leanpub.com/watirbook",
-    "categories":[  
+    "categories":[
       "testing"
     ],
-    "prices":"ebook: $0"
+    "prices":"ebook: $0",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Web Services on Rails",
-    "authors":[  
+    "authors":[
       "Kevin Marshall"
     ],
     "year":"2006",
-    "editor":"O'Reilly Media",
     "url":"http://shop.oreilly.com/product/9780596527969.do",
-    "categories":[  
+    "categories":[
       "Rails",
       "services"
     ],
-    "prices":"ebook: $9.99"
+    "prices":"ebook: $9.99",
+    "editors":[
+      "O'Reilly Media"
+    ]
   },
-  {  
+  {
     "title":"What do I test?",
-    "authors":[  
+    "authors":[
       "Eric Steele"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"https://whatdoitest.com/",
-    "categories":[  
+    "categories":[
       "testing"
     ],
-    "prices":""
+    "prices":"",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Why's Poignant Guide to Ruby",
-    "authors":[  
+    "authors":[
       "Why the Lucky Stiff"
     ],
     "year":"2005",
-    "editor":"Self Published",
     "url":"http://mislav.uniqpath.com/poignant-guide/",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $0"
+    "prices":"ebook: $0",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Wicked Cool Ruby Scripts: Useful Scripts that Solve Difficult Problems",
-    "authors":[  
+    "authors":[
       "Steve Pugh"
     ],
     "year":"2008",
-    "editor":"No Starch Press",
     "url":"http://shop.oreilly.com/product/9781593271824.do",
-    "categories":[  
+    "categories":[
       "scripting"
     ],
-    "prices":"ebook: $23.95, paperbook: $29.95"
+    "prices":"ebook: $23.95, paperbook: $29.95",
+    "editors":[
+      "No Starch Press"
+    ]
   },
-  {  
+  {
     "title":"Working With TCP Sockets",
-    "authors":[  
+    "authors":[
       "Jesse Storimer"
     ],
     "year":"2012",
-    "editor":"Self Published",
     "url":"http://www.jstorimer.com/products/working-with-tcp-sockets",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $39"
+    "prices":"ebook: $39",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Working With Unix Processes",
-    "authors":[  
+    "authors":[
       "Jesse Storimer"
     ],
     "year":"2011",
-    "editor":"Self Published",
     "url":"http://www.jstorimer.com/products/working-with-unix-processes",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $39"
+    "prices":"ebook: $39",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Working with Ruby Threads",
-    "authors":[  
+    "authors":[
       "Jesse Storimer"
     ],
     "year":"2013",
-    "editor":"Self Published",
     "url":"http://www.jstorimer.com/products/working-with-ruby-threads",
-    "categories":[  
+    "categories":[
       "concurrency"
     ],
-    "prices":"ebook: $39"
+    "prices":"ebook: $39",
+    "editors":[
+      "Self Published"
+    ]
   },
-  {  
+  {
     "title":"Writing Efficient Ruby Code (Digital Short Cut)",
-    "authors":[  
+    "authors":[
       "Stefan Kaes"
     ],
     "year":"2007",
-    "editor":"Addison-Wesley Professional",
     "url":"http://www.informit.com/store/writing-efficient-ruby-code-digital-short-cut-9780321540034",
-    "categories":[  
+    "categories":[
 
     ],
-    "prices":"ebook: $12.99"
+    "prices":"ebook: $12.99",
+    "editors":[
+      "Addison-Wesley Professional"
+    ]
   }
 ]
