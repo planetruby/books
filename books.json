@@ -142,7 +142,7 @@
   {
     "title": "Aptana RadRails: An IDE for Rails Development",
     "authors": [
-      "Javier Ramirez"
+      "Javier Ramírez"
     ],
     "year": "2008",
     "url": "http://shop.oreilly.com/product/9781847193988.do",
@@ -160,11 +160,11 @@
       "thoughtbot"
     ],
     "year": "2012",
-    "url": "https://learn.thoughtbot.com/products/1-backbone-js-on-rails",
+    "url": "https://gumroad.com/l/backbone-js-on-rails",
     "categories": [
       "Rails"
     ],
-    "prices": "ebook: $29",
+    "prices": "ebook: $49",
     "editors": [
       "thoughtbot"
     ]
@@ -224,7 +224,7 @@
     "title": "Beginning Rails 3",
     "authors": [
       "Rida Al Barazi",
-      "Cloves Carneiro Jr",
+      "Cloves Carneiro Jr.",
       "Cloves Carneiro"
     ],
     "year": "2010",
@@ -260,13 +260,13 @@
       "Steve Holzner"
     ],
     "year": "2007",
-    "url": "http://shop.oreilly.com/product/9780470069158.do",
+    "url": "http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470069155.html",
     "categories": [
       "Rails"
     ],
-    "prices": "ebook: $34.99",
+    "prices": "ebook: $26",
     "editors": [
-      "Wiley / Wrox"
+      "Wiley"
     ]
   },
   {
@@ -347,6 +347,22 @@
     ]
   },
   {
+    "title": "Rails operations for bootstrappers",
+    "authors": [
+      "Michael Trojanek"
+    ],
+    "year": "2015",
+    "url": "http://www.relativkreativ.at/products/rails_operations_for_bootstrappers",
+    "categories": [
+      "deployment",
+      "Rails"
+    ],
+    "prices": "",
+    "editors": [
+      "Self Published"
+    ]
+  },
+  {
     "title": "Build your own Rails server",
     "authors": [
       "Michael Trojanek"
@@ -402,7 +418,7 @@
     "categories": [
       "Rails"
     ],
-    "prices": "ebook: $42",
+    "prices": "ebook: $49",
     "editors": [
       "Self Published"
     ]
@@ -445,7 +461,7 @@
       "Avdi Grimm"
     ],
     "year": "2013",
-    "url": "http://devblog.avdi.org/2013/08/26/confident-ruby-is-finished/",
+    "url": "http://www.confidentruby.com/",
     "categories": [
 
     ],
@@ -599,9 +615,10 @@
     "year": "2014",
     "url": "https://leanpub.com/developing-games-with-ruby",
     "categories": [
+      "free",
       "game"
     ],
-    "prices": "ebook: $15",
+    "prices": "HTML: free, ebook: $15",
     "editors": [
       "Self Published"
     ]
@@ -631,7 +648,7 @@
     "categories": [
       "Rails"
     ],
-    "prices": "",
+    "prices": "ebook: $25",
     "editors": [
       "Self Published"
     ]
@@ -717,7 +734,7 @@
       "Aaron Sumner"
     ],
     "year": "2012",
-    "url": "https://leanpub.com/everydayrailsrspec?",
+    "url": "https://leanpub.com/everydayrailsrspec",
     "categories": [
       "Rails",
       "testing"
@@ -886,7 +903,7 @@
       "Laila Winner"
     ],
     "year": "2013",
-    "url": "https://learn.thoughtbot.com/products/22-geocoding-on-rails",
+    "url": "https://gumroad.com/l/geocoding-on-rails",
     "categories": [
       "Rails",
       "maps"
@@ -907,7 +924,7 @@
     "categories": [
       "Rails"
     ],
-    "prices": "",
+    "prices": "ebook: $15",
     "editors": [
       "Self Published"
     ]
@@ -993,7 +1010,7 @@
       "Jessie Young"
     ],
     "year": "2014",
-    "url": "https://learn.thoughtbot.com/products/25-ios-on-rails-beta",
+    "url": "https://gumroad.com/l/ios-on-rails",
     "categories": [
       "Rails",
       "iOS"
@@ -1121,7 +1138,7 @@
     "categories": [
       "Rails"
     ],
-    "prices": "",
+    "prices": "ebook: $10",
     "editors": [
       "Self Published"
     ]
@@ -1306,7 +1323,7 @@
     "year": "2006",
     "url": "http://www.humblelittlerubybook.com/",
     "categories": [
-
+      "free"
     ],
     "prices": "ebook: $0, paperbook: $10",
     "editors": [
@@ -1554,7 +1571,7 @@
     "categories": [
       "Rails"
     ],
-    "prices": "",
+    "prices": "$39",
     "editors": [
       "Self Published"
     ]
@@ -1582,13 +1599,29 @@
       "Noel Rappin"
     ],
     "year": "2008",
-    "url": "http://shop.oreilly.com/product/9780470223888.do",
+    "url": "http://www.wiley.com/WileyCDA/WileyTitle/productCd-047022388X.html",
     "categories": [
       "Rails"
     ],
     "prices": "ebook: $39.99",
     "editors": [
-      "Wiley / Wrox"
+      "Wiley"
+    ]
+  },
+  {
+    "title": "Programming Ruby: The Pragmatic Programmers' Guide",
+    "authors": [
+      "Dave Thomas",
+      "Andy Hunt"
+    ],
+    "year": "2004",
+    "url": "http://ruby-doc.com/docs/ProgrammingRuby/",
+    "categories": [
+      "free"
+    ],
+    "prices": "HTML: $0",
+    "editors": [
+      "Pragmatic Bookshelf"
     ]
   },
   {
@@ -1610,7 +1643,7 @@
     "title": "Programming Ruby (2nd edition): The Pragmatic Programmers' Guide",
     "authors": [
       "Dave Thomas",
-      "with Chad Fowler",
+      "Chad Fowler",
       "Andy Hunt"
     ],
     "year": "2004",
@@ -1627,7 +1660,7 @@
     "title": "Programming Ruby 1.9 & 2.0 (4th edition): The Pragmatic Programmers' Guide",
     "authors": [
       "Dave Thomas",
-      "with Chad Fowler",
+      "Chad Fowler",
       "Andy Hunt"
     ],
     "year": "2013",
@@ -1644,7 +1677,7 @@
     "title": "Programming Ruby 1.9 (3rd edition): The Pragmatic Programmers' Guide",
     "authors": [
       "Dave Thomas",
-      "with Chad Fowler",
+      "Chad Fowler",
       "Andy Hunt"
     ],
     "year": "2009",
@@ -2095,11 +2128,12 @@
   {
     "title": "Ruby Hacking Guide",
     "authors": [
-      "Minero AOKI"
+      "Minero Aoki"
     ],
     "year": "2004",
     "url": "http://ruby-hacking-guide.github.io/",
     "categories": [
+      "free",
       "ruby-internals"
     ],
     "prices": "ebook: $0",
@@ -2180,7 +2214,7 @@
     ],
     "prices": "ebook: $22.99, paperbook: $34.99",
     "editors": [
-      "Wiley / For Dummies"
+      "Wiley"
     ]
   },
   {
@@ -2189,13 +2223,13 @@
       "Antonio Cangiano"
     ],
     "year": "2009",
-    "url": "http://shop.oreilly.com/product/9780470374955.do",
+    "url": "http://www.wrox.com/WileyCDA/WroxTitle/productCd-0470374950.html",
     "categories": [
       "Windows"
     ],
     "prices": "ebook: $49.99",
     "editors": [
-      "Wiley / Wrox"
+      "Wiley"
     ]
   },
   {
@@ -2327,11 +2361,11 @@
       "thoughtbot"
     ],
     "year": "2013",
-    "url": "https://learn.thoughtbot.com/products/13-ruby-science",
+    "url": "https://gumroad.com/l/ruby-science",
     "categories": [
       "Rails"
     ],
-    "prices": "ebook: $29",
+    "prices": "ebook: $49",
     "editors": [
       "thoughtbot"
     ]
@@ -2602,7 +2636,7 @@
   {
     "title": "Test Driven Ajax (on Rails)",
     "authors": [
-      "Phlip"
+      "Phlip Plumlee"
     ],
     "year": "2007",
     "url": "http://shop.oreilly.com/product/9780596510657.do",
@@ -2636,13 +2670,13 @@
       "Edward Benson"
     ],
     "year": "2008",
-    "url": "http://shop.oreilly.com/product/9780470189481.do",
+    "url": "http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470189487.html",
     "categories": [
       "Rails"
     ],
-    "prices": "ebook: $39.99",
+    "prices": "ebook: $26",
     "editors": [
-      "Wiley / Wrox"
+      "Wiley"
     ]
   },
   {
@@ -2653,7 +2687,7 @@
     "year": "2011",
     "url": "http://ruby.bastardsbook.com/",
     "categories": [
-
+      "free"
     ],
     "prices": "ebook: $0",
     "editors": [
@@ -2666,7 +2700,7 @@
       "Huw Collingbourne"
     ],
     "year": "2011",
-    "url": "http://shop.oreilly.com/product/9781593272944.do",
+    "url": "http://www.nostarch.com/ruby",
     "categories": [
 
     ],
@@ -2714,9 +2748,10 @@
     "year": "2014",
     "url": "https://leanpub.com/happylambda",
     "categories": [
+      "free",
       "functional"
     ],
-    "prices": "",
+    "prices": "HTML: $0, ebook: $5",
     "editors": [
       "Self Published"
     ]
@@ -2813,7 +2848,7 @@
     "categories": [
       "Rails"
     ],
-    "prices": "ebook: $5",
+    "prices": "ebook: $30",
     "editors": [
       "Self Published"
     ]
@@ -2870,11 +2905,12 @@
       "Andy Lindeman"
     ],
     "year": "2013",
-    "url": "http://www.upgradingtorails4.com/",
+    "url": "https://github.com/alindeman/upgradingtorails4",
     "categories": [
+      "free",
       "Rails"
     ],
-    "prices": "ebook: $15",
+    "prices": "ebook: $0",
     "editors": [
       "Self Published"
     ]
@@ -2906,9 +2942,10 @@
     "year": "2014",
     "url": "https://leanpub.com/watirbook",
     "categories": [
+      "free",
       "testing"
     ],
-    "prices": "ebook: $0",
+    "prices": "HTML: $0, ebook: $10",
     "editors": [
       "Self Published"
     ]
@@ -2939,7 +2976,7 @@
     "categories": [
       "testing"
     ],
-    "prices": "",
+    "prices": "$29",
     "editors": [
       "Self Published"
     ]
@@ -2952,7 +2989,7 @@
     "year": "2005",
     "url": "http://mislav.uniqpath.com/poignant-guide/",
     "categories": [
-
+      "free"
     ],
     "prices": "ebook: $0",
     "editors": [
