@@ -134,22 +134,7 @@
     "categories": [
       "IDE"
     ],
-    "prices": "ebook: $24",
-    "editors": [
-      "Packt Publishing"
-    ]
-  },
-  {
-    "title": "Aptana RadRails: An IDE for Rails Development",
-    "authors": [
-      "Javier Ramírez"
-    ],
-    "year": "2008",
-    "url": "http://shop.oreilly.com/product/9781847193988.do",
-    "categories": [
-      "IDE"
-    ],
-    "prices": "ebook: $23.99",
+    "prices": "ebook: $15.60",
     "editors": [
       "Packt Publishing"
     ]
@@ -344,22 +329,6 @@
     "prices": "ebook: $23.00, paperbook: $9.95",
     "editors": [
       "Pragmatic Bookshelf"
-    ]
-  },
-  {
-    "title": "Rails operations for bootstrappers",
-    "authors": [
-      "Michael Trojanek"
-    ],
-    "year": "2015",
-    "url": "http://www.relativkreativ.at/products/rails_operations_for_bootstrappers",
-    "categories": [
-      "deployment",
-      "Rails"
-    ],
-    "prices": "",
-    "editors": [
-      "Self Published"
     ]
   },
   {
@@ -1609,22 +1578,6 @@
     ]
   },
   {
-    "title": "Programming Ruby: The Pragmatic Programmers' Guide",
-    "authors": [
-      "Dave Thomas",
-      "Andy Hunt"
-    ],
-    "year": "2004",
-    "url": "http://ruby-doc.com/docs/ProgrammingRuby/",
-    "categories": [
-      "free"
-    ],
-    "prices": "HTML: $0",
-    "editors": [
-      "Pragmatic Bookshelf"
-    ]
-  },
-  {
     "title": "Programming Cocoa with Ruby: Create Compelling Mac Apps Using RubyCocoa",
     "authors": [
       "Brian Marick"
@@ -1686,6 +1639,22 @@
 
     ],
     "prices": "",
+    "editors": [
+      "Pragmatic Bookshelf"
+    ]
+  },
+  {
+    "title": "Programming Ruby: The Pragmatic Programmers' Guide",
+    "authors": [
+      "Dave Thomas",
+      "Andy Hunt"
+    ],
+    "year": "2004",
+    "url": "http://ruby-doc.com/docs/ProgrammingRuby/",
+    "categories": [
+      "free"
+    ],
+    "prices": "HTML: $0",
     "editors": [
       "Pragmatic Bookshelf"
     ]
@@ -1828,6 +1797,22 @@
     "prices": "ebook: $9.99",
     "editors": [
       "O'Reilly Media"
+    ]
+  },
+  {
+    "title": "Rails operations for bootstrappers",
+    "authors": [
+      "Michael Trojanek"
+    ],
+    "year": "2015",
+    "url": "http://www.relativkreativ.at/products/rails_operations_for_bootstrappers",
+    "categories": [
+      "deployment",
+      "Rails"
+    ],
+    "prices": "",
+    "editors": [
+      "Self Published"
     ]
   },
   {
@@ -2123,6 +2108,21 @@
     "prices": "ebook: $51.95",
     "editors": [
       "Elsevier / Syngress"
+    ]
+  },
+  {
+    "title": "Ruby DSL Handbook",
+    "authors": [
+      "Jim Gay"
+    ],
+    "year": "2015",
+    "url": "http://clean-ruby.com/dsl",
+    "categories": [
+      "DSL"
+    ],
+    "prices": "ebook: $12",
+    "editors": [
+      "Self Published"
     ]
   },
   {
