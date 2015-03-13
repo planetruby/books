@@ -101,12 +101,12 @@
     "year": "2014",
     "url": "http://apionrails.icalialabs.com/book",
     "categories": [
-      "API"
+      "API",
+      "free"
     ],
     "prices": "html: $0",
     "editors": [
-      "Self Published",
-      "free"
+      "Self Published"
     ]
   },
   {
@@ -914,6 +914,21 @@
     ]
   },
   {
+    "title": "I Love Ruby",
+    "authors": [
+      "Karthikeyan A K"
+    ],
+    "year": "2010",
+    "url": "https://www.dropbox.com/s/ox1neltjz7cghmd/ilr2015.pdf",
+    "categories": [
+      "free"
+    ],
+    "prices": "PDF: free",
+    "editors": [
+      "Self Published"
+    ]
+  },
+  {
     "title": "Instant RSpec Test-Driven Development How-to",
     "authors": [
       "Charles Feduke"
@@ -1093,6 +1108,21 @@
       "metaprogramming"
     ],
     "prices": "ebook: $16",
+    "editors": [
+      "Self Published"
+    ]
+  },
+  {
+    "title": "Lean Ruby The Hard Way",
+    "authors": [
+      "Zed Shaw"
+    ],
+    "year": "2014",
+    "url": "http://learnrubythehardway.org",
+    "categories": [
+      "free"
+    ],
+    "prices": "HTML: free, ebook: $30, paperbook: $27",
     "editors": [
       "Self Published"
     ]
@@ -1952,6 +1982,22 @@
     "prices": "ebook: $14",
     "editors": [
       "Packt Publishing"
+    ]
+  },
+  {
+    "title": "Read Ruby",
+    "authors": [
+      "RunPaint",
+      "Cheng Guangnan"
+    ],
+    "year": "2010",
+    "url": "http://readruby.io",
+    "categories": [
+      "free"
+    ],
+    "prices": "HTML: free",
+    "editors": [
+      "Self Published"
     ]
   },
   {
