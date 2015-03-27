@@ -2342,18 +2342,18 @@
     ]
   },
   {
-    "title": "Ruby Performance Book",
+    "title": "Ruby Performance Optimization: Why Ruby Is Slow, and How to Fix It",
     "authors": [
       "Alexander Dymo"
     ],
-    "year": "2014",
-    "url": "http://ruby-performance-book.com/",
+    "year": "2015",
+    "url": "https://pragprog.com/book/adrpo/ruby-performance-optimization",
     "categories": [
       "performance"
     ],
-    "prices": "",
+    "prices": "Beta ebook: $24",
     "editors": [
-      "Self Published"
+      "Pragmatic Bookshelf"
     ]
   },
   {
@@ -2798,6 +2798,21 @@
       "functional"
     ],
     "prices": "HTML: $0, ebook: $5",
+    "editors": [
+      "Self Published"
+    ]
+  },
+  {
+    "title": "The Minitest Cookbook",
+    "authors": [
+      "Christ Kottom"
+    ],
+    "year": "2015",
+    "url": "http://chriskottom.com/minitestcookbook/",
+    "categories": [
+      "testing"
+    ],
+    "prices": "ebook: $39",
     "editors": [
       "Self Published"
     ]
