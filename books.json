@@ -2696,6 +2696,21 @@
     ]
   },
   {
+    "title": "Testing Rails",
+    "authors": [
+      "Josh Steiner"
+    ],
+    "year": "2015",
+    "url": "https://gumroad.com/l/testing-rails",
+    "categories": [
+      "testing"
+    ],
+    "prices": "ebook: $49",
+    "editors": [
+      "thoughtbot"
+    ]
+  },
+  {
     "title": "Text Processing with Ruby",
     "authors": [
       "Rob Miller"
