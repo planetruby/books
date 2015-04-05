@@ -347,6 +347,21 @@
     ]
   },
   {
+    "title": "Build Your Own Sinatra",
+    "authors": [
+      "K-2052"
+    ],
+    "year": "2015",
+    "url": "http://buildyourownsinatra.com/",
+    "categories": [
+      "Sinatra"
+    ],
+    "prices": "ebook: $35",
+    "editors": [
+      "Self Published"
+    ]
+  },
+  {
     "title": "Building Dynamic Web 2.0 Websites with Ruby on Rails",
     "authors": [
       "A P Rajshekhar"
