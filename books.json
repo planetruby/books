@@ -2387,6 +2387,22 @@
     ]
   },
   {
+    "title": "Ruby on Windows Guides",
+    "authors": [
+      "Boško Ivanišević"
+    ],
+    "year": "2015",
+    "url": "http://rubyonwindowsguides.github.io/",
+    "categories": [
+      "Windows",
+      "free"
+    ],
+    "prices": "ebook: $0",
+    "editors": [
+      "Self Published"
+    ]
+  },
+  {
     "title": "Ruby Performance Optimization: Why Ruby Is Slow, and How to Fix It",
     "authors": [
       "Alexander Dymo"
