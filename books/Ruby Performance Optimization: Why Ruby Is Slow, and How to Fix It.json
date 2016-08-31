@@ -1,0 +1,13 @@
+{
+  "title": "Ruby Performance Optimization: Why Ruby Is Slow, and How to Fix It",
+  "authors": [
+    "Alexander Dymo"
+  ],
+  "year": "2015",
+  "url": "https://pragprog.com/book/adrpo/ruby-performance-optimization",
+  "categories": [
+    "performance"
+  ],
+  "prices": "ebook: $24, paperbook: $36",
+  "editor": "Pragmatic Bookshelf"
+}
