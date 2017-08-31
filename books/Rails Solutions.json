@@ -8,6 +8,6 @@
   "categories": [
     "Rails"
   ],
-  "prices": "ebook: $25",
+  "prices": "ebook: $25, paperbook: $35",
   "editor": "Apress"
 }

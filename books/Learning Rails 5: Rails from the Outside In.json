@@ -1,8 +1,9 @@
 {
-  "title": "Learning Rails 3: Rails from the Outside In",
+  "title": "Learning Rails 5: Rails from the Outside In",
   "authors": [
-    "Eric J Gruber",
-    "J. Mark Locklear"
+    "Simon St.Laurent",
+    "Edd Dumbill",
+    "Mark Locklear"
   ],
   "year": "2016",
   "url": "http://shop.oreilly.com/product/0636920039822.do",
@@ -10,6 +11,6 @@
     "Rails",
     "beginner"
   ],
-  "prices": "ebook: $39, paperbook: $45",
+  "prices": "ebook: $23, paperbook: $37",
   "editor": "O'Reilly Media"
 }

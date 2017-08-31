@@ -1,14 +1,15 @@
 {
-  "title": "Trailblazer A New Architecture For Rails",
+  "title": "Trailblazer. A New Architecture For Rails",
   "authors": [
     "Nick Sutterer"
   ],
-  "year": "2014",
+  "year": "2016",
   "url": "https://leanpub.com/trailblazer",
   "categories": [
+    "Free",
     "Rails",
     "Rails advanced"
   ],
-  "prices": "ebook: $32 minimum, $41 suggested",
+  "prices": "ebook: free minimum, $9.99 suggested",
   "editor": "Self Published"
 }
