@@ -6,7 +6,9 @@
   "year": "2016",
   "url": "https://leanpub.com/acloudinfrastructureforprocessingimages",
   "categories": [
-    "Rails"
+    "Rails",
+    "Sinatra",
+    "free"
   ],
   "prices": "ebook: free minimum, $5 suggested",
   "editor": "Self Published"

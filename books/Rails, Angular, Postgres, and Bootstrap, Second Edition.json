@@ -7,10 +7,8 @@
   "url": "https://pragprog.com/book/dcbang2/rails-angular-postgres-and-bootstrap-second-edition",
   "categories": [
     "Rails",
-    "Angular",
-    "Postgres",
-    "Bootstrap",
     "front-end",
+    "AngularJS"
   ],
   "prices": "ebook: $25, paperbook: $40",
   "editor": "Pragmatic Bookshelf"

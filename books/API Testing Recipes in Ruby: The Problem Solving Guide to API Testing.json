@@ -6,10 +6,9 @@
   "year": "2016",
   "url": "https://www.amazon.com/gp/product/1537344781",
   "categories": [
-    "Rails",
     "testing",
-    "api"
+    "API"
   ],
-  "prices": "ebook: $18",
+  "prices": "paperbook: $18",
   "editor": "CreateSpace Independent Publishing Platform"
 }
