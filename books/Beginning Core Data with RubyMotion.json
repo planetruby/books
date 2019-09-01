@@ -1,14 +1,13 @@
 {
   "title": "Beginning Core Data with RubyMotion",
   "authors": [
-    "Stefan Haflidason"
+    "Stefan Magnuson"
   ],
   "year": "2014",
   "url": "https://leanpub.com/beginning-core-data-for-ruby-motion",
   "categories": [
-    "free",
     "iOS"
   ],
-  "prices": "ebook: from free to suggested $5.27",
+  "prices": "free",
   "editor": "Self Published"
 }

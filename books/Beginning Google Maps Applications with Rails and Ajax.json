@@ -12,6 +12,6 @@
     "Rails",
     "maps"
   ],
-  "prices": "ebook: $25",
-  "editor": "apress"
+  "prices": "ebook: $25, paperbook: $35",
+  "editor": "Apress"
 }
