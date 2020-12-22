@@ -11,7 +11,7 @@ Formerly @ [`www.allrubybooks.com`](http://www.allrubybooks.com/)
 
 **Update 2021** - Work-in-progess - getting converted over to the new home at Planet Ruby.
 
-The collection will get merged with [`/books`](https://github.com/planetruby/books) repo
-and get converted to YAML with directories by publication year (e.g. `/2019`, `/2020`, `/2021` etc.).
+For now the current plan to use this collection and merge in the [`/books`](https://github.com/planetruby/books) repo
+and convert all book datafiles to YAML with directories by publication year (e.g. `/2019`, `/2020`, `/2021` etc.).
 
 
