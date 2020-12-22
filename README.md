@@ -2,7 +2,7 @@
 
 This is the JSON backend of the All Ruby Books website / page.
 
-The book collection was started by [Florent Guilleux](https://github.com/Florent2).  Thanks! Merci!
+The book collection was started by [Florent Guilleux](https://github.com/Florent2) in 2016.  Thanks! Merci!
 
 
 Contributions welcome! Just send pull requests.
