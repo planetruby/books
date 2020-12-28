@@ -1,0 +1,28 @@
+---
+---
+
+{% assign books = site.books | reverse %}
+{% for book in books %}
+ || {{ book.year }}, {{ book.title }} ||
+{% endfor %}
+
+
+
+<!-- was:
+   book["categories"].flatten.sort_by(&:downcase).uniq
+   book["authors"].flatten.sort.uniq
+   book["editor"].sort_by(&:downcase).uniq
+-->
+
+{% assign all_categories = books | map: "categories" | uniq | sort_natural %}
+{% assign all_authors    = books | map: "authors" | uniq | sort_natural %}
+{% assign all_editors    = books | map: "editor" | uniq | sort_natural %}
+
+categories:
+{{ all_categories  | join: " • "}}
+
+authors:
+{{ all_authors  | join: " • " }}
+
+editors:
+{{ all_editors  | join: " • " }}

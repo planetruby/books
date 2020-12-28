@@ -2,7 +2,7 @@
 title: The Well-Grounded Rubyist, Third Edition
 authors:
 - David A. Black
-- " Joseph Leo"
+- Joseph Leo
 year: 2019
 url: https://www.manning.com/books/the-well-grounded-rubyist-third-edition
 categories:
