@@ -18,3 +18,9 @@ For now the current plan is to use this collection and merge in the [`/books-old
 and convert all book datafiles to YAML with directories by publication year (e.g. `/2019`, `/2020`, `/2021` etc.).
 
 
+
+## Notes
+
+On filenames:
+
+- note: do NOT use `:` in filenames e.g. `Aptana RadRails: An IDE for Rails Development.json` will break checkouts on Windows; use `-` instead or such.
