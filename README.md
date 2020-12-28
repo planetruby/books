@@ -23,4 +23,6 @@ and convert all book datafiles to YAML with directories by publication year (e.g
 
 On filenames:
 
-- note: do NOT use `:` in filenames e.g. `Beginning Ruby: From Novice to Professional.json` will break checkouts on Windows; use `-` instead or such.
+- do NOT use `:` in filenames e.g. `Beginning Ruby: From Novice to Professional.json` will break checkouts on Windows; use `-` instead or such
+- do NOT use `?` in filenames e.g. `What do I test?.json` will break checkouts on Windows; remove for now - why? why not?
+
