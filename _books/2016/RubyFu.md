@@ -1,0 +1,13 @@
+---
+title: RubyFu
+authors:
+- King Sabri
+year: 2016
+url: http://rubyfu.net/
+categories:
+- free
+- security
+- hacking
+prices: free
+editor: Self Published
+---

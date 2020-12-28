@@ -1,0 +1,11 @@
+---
+title: Practical Ruby Gems
+authors:
+- David Berube
+year: 2007
+url: http://www.apress.com/9781590598115
+categories:
+- gems
+prices: 'ebook: $30, paperbook: $40'
+editor: Apress
+---

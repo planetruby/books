@@ -1,0 +1,10 @@
+---
+title: Ruby Deep Dive
+authors:
+- Jesus Castello
+year: 2015
+url: https://www.blackbytes.info/ruby-book/
+categories: []
+prices: "$49"
+editor: Self Published
+---

@@ -1,0 +1,11 @@
+---
+title: The Minitest Cookbook
+authors:
+- Christ Kottom
+year: 2015
+url: http://chriskottom.com/minitestcookbook/
+categories:
+- testing
+prices: 'ebook: $39'
+editor: Self Published
+---

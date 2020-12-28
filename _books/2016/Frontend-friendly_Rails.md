@@ -1,0 +1,12 @@
+---
+title: Frontend-friendly Rails
+authors:
+- Marcin Grzywaczewski
+year: 2016
+url: http://blog.arkency.com/frontend-friendly-rails/
+categories:
+- front-end
+- Rails
+prices: 'ebook: $49'
+editor: Arkency
+---

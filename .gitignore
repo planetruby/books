@@ -1,3 +1,5 @@
-order-books.rb
-add-book.rb
-TODOS.md
+_site/
+.sass-cache/
+.jekyll-metadata
+
+

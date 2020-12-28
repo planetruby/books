@@ -1,0 +1,11 @@
+---
+title: Learn Rails 5.1 (Part 2)
+authors:
+- Stefan Wintermeyer
+year: 2017
+url: https://www.amazon.com/gp/product/1546496149
+categories:
+- Rails
+prices: 'ebook: $10, paperbook: $30'
+editor: CreateSpace Independent Publishing Platform
+---

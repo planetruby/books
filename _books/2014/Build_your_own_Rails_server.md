@@ -1,0 +1,12 @@
+---
+title: Build your own Rails server
+authors:
+- Michael Trojanek
+year: 2014
+url: http://www.relativkreativ.at/ebook
+categories:
+- deployment
+- free
+prices: free
+editor: Self Published
+---

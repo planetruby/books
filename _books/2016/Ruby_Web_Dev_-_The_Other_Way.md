@@ -1,0 +1,11 @@
+---
+title: 'Ruby Web Dev: The Other Way'
+authors:
+- Yevhen Kuzminov
+year: 2016
+url: https://leanpub.com/rwdtow
+categories:
+- free
+prices: 'ebook: free minimum, $3.00 suggested'
+editor: Self Published
+---

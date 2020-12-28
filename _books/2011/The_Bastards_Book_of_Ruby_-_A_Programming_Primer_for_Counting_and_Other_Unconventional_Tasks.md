@@ -1,0 +1,12 @@
+---
+title: 'The Bastards Book of Ruby: A Programming Primer for Counting and Other Unconventional
+  Tasks'
+authors:
+- Dan Nguyen
+year: 2011
+url: http://ruby.bastardsbook.com/
+categories:
+- free
+prices: 'ebook: free'
+editor: Self Published
+---

@@ -26,3 +26,8 @@ On filenames:
 - do NOT use `:` in filenames e.g. `Beginning Ruby: From Novice to Professional.json` will break checkouts on Windows; use `-` instead or such
 - do NOT use `?` in filenames e.g. `What do I test?.json` will break checkouts on Windows; remove for now - why? why not?
 
+
+On book data:
+
+- use YYYY/ directory for now for books with missing/empty publication year - why? why not?
+

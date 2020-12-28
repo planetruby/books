@@ -1,0 +1,11 @@
+---
+title: 'Ruby on Rails 5.0 for Autodidacts: Learn Ruby 2.3 and Rails 5.0'
+authors:
+- Stefan Wintermeyer
+year: 2016
+url: https://www.amazon.com/Ruby-Rails-5-0-Autodidacts-Learn-ebook/dp/B01BKFPTJ0
+categories:
+- Rails
+prices: 'ebook: $10, paperbook: $25'
+editor: Self Published
+---

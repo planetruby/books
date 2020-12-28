@@ -1,0 +1,11 @@
+---
+title: What do I test?
+authors:
+- Eric Steele
+year: 2013
+url: https://whatdoitest.com/
+categories:
+- testing
+prices: "$19"
+editor: Self Published
+---

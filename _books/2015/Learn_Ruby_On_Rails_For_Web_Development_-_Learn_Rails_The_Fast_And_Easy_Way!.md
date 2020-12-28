@@ -1,0 +1,12 @@
+---
+title: 'Learn Ruby On Rails For Web Development: Learn Rails The Fast And Easy Way!'
+authors:
+- John Elder
+year: 2015
+url: http://www.codemy.com/learning-ruby-rails-web-development/
+categories:
+- Rails
+- free
+prices: 'ebook: free, paperbook: $28'
+editor: Codemy.com
+---
