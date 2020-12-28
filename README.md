@@ -8,7 +8,7 @@ The book collection was started by [Florent Guilleux](https://github.com/Florent
 Contributions welcome! Just send pull requests.
 
 
-Formerly @ [`www.allrubybooks.com`](http://www.allrubybooks.com/)
+Formerly @ [`www.allrubybooks.com`](http://www.allrubybooks.com/) moving to [`planetruby.github.io/books`](http://planetruby.github.io/books). 
 
 
 
