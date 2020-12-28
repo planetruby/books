@@ -23,4 +23,4 @@ and convert all book datafiles to YAML with directories by publication year (e.g
 
 On filenames:
 
-- note: do NOT use `:` in filenames e.g. `Aptana RadRails: An IDE for Rails Development.json` will break checkouts on Windows; use `-` instead or such.
+- note: do NOT use `:` in filenames e.g. `Beginning Ruby: From Novice to Professional.json` will break checkouts on Windows; use `-` instead or such.
