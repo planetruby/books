@@ -8,8 +8,8 @@ The book collection was started by [Florent Guilleux](https://github.com/Florent
 Contributions welcome! Just send pull requests.
 
 
-Look in the [`_books`](_books) directory for all book datafiles ordered
-by publishing year (e.g. [`2021`](_books/2021), [`2020`](_books/2020), etc.).
+Look in the [`_books/`](_books) directory for all book datafiles ordered
+by publishing year (e.g. [`2021/`](_books/2021), [`2020/`](_books/2020), etc.).
 One book one datafile (in YAML). Example:
 
 
