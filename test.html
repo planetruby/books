@@ -1,0 +1,53 @@
+---
+# test page for liquid code
+---
+
+<!-- sort by year reverse e.g. latest year first -->
+
+{% assign books = site.books | reverse %}
+
+<!-- was in erb:
+   book["categories"].flatten.sort_by(&:downcase).uniq
+   book["authors"].flatten.sort.uniq
+   book["editor"].sort_by(&:downcase).uniq
+-->
+
+{% assign categories = books | map: "categories" | uniq | sort_natural %}
+{% assign authors    = books | map: "authors" | uniq | sort_natural %}
+{% assign editors    = books | map: "editor" | uniq | sort_natural %}
+
+
+
+<h1>All Ruby Books - Liquid Test Page</h1>
+
+
+<!-- todos/check:
+   possible to get the file date / collection document date
+    for a book for last updated?   - was using the git date before
+-->
+
+<h2>{{ books.size }} Books</h2>
+{% for book in books %}
+<p>
+  {{ book.title }}, {{ book.year }}
+</p>
+{% endfor %}
+
+
+
+<h3>{{ categories.size }} Categories</h3>
+<p>
+{{ categories  | join: " • "}}
+</p>
+
+<h3>{{ authors.size }} Authors</h3>
+<p>
+{{ authors  | join: " • " }}
+</p>
+
+<h3>{{ editors.size }} Editors</h3>
+<p>
+{{ editors  | join: " • " }}
+</p>
+
+
