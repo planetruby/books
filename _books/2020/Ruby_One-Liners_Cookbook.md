@@ -9,7 +9,7 @@ categories:
 - data
 - scripting
 - free
-prices: 'online: free'
+prices: 'online: free; buy pdf/epub versions $10+'
 editor: Learn By Example
 ---
 
