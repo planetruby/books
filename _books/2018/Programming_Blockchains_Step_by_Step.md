@@ -1,0 +1,14 @@
+---
+title: Programming Blockchains Step-by-Step Guide
+authors:
+- Gerald Bauer
+year: 2018
+categories:
+- blockchain
+- cryptos
+- bitcoin
+- free
+prices: "free"
+editor: Yuki & Moto Press
+home_url: http://yukimotopress.github.io/programming-blockchains-step-by-step
+---
