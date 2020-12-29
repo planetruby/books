@@ -8,7 +8,7 @@ categories:
 - cryptos
 - bitcoin
 - free
-prices: "free"
+prices: "online: free"
 editor: Yuki & Moto Press
 home_url: http://yukimotopress.github.io/programming-blockchains-step-by-step
 ---
