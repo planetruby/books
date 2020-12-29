@@ -9,7 +9,7 @@ categories:
 - data
 - scripting
 - free
-prices: free
+prices: 'online: free'
 editor: Learn By Example
 ---
 
