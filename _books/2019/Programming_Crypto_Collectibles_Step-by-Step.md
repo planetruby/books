@@ -8,7 +8,7 @@ categories:
 - blockchain
 - kittyverse
 - free
-prices: "free"
+prices: "online: free"
 editor: Yuki & Moto Press
 home_url: https://github.com/openblockchains/programming-cryptocollectibles
 ---
