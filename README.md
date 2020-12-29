@@ -20,7 +20,7 @@ title: Black Hat Ruby - Offensive Ruby programming book for hackers & pentesters
 authors:
 - Sabri Saleh Hassanyah
 year: 2020
-home_url: https://rubyfu.net/#black-hat-ruby-offensive-ruby-programming-book-for-hackers-and-pentesters
+home_url: https://rubyfu.net/#black-hat-ruby-offensive-ruby-programming-book-for-hackers
 categories:
 - network
 - security
