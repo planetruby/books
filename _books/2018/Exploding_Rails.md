@@ -3,9 +3,9 @@ title: Exploding Rails
 authors:
 - Ryan Bigg
 year: 2018
-url: https://leanpub.com/explodingrails
 categories:
 - Rails advanced
 prices: 'ebook: $25'
 editor: Self Published
+home_url: https://leanpub.com/explodingrails
 ---

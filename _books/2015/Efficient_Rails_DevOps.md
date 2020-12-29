@@ -3,10 +3,10 @@ title: Efficient Rails DevOps
 authors:
 - Michael Trojanek
 year: 2015
-url: https://efficientrailsdevops.com/
 categories:
 - deployment
 - Rails
 prices: 'ebook: $50'
 editor: Self Published
+home_url: https://efficientrailsdevops.com/
 ---

@@ -18,4 +18,5 @@ On filenames:
 On book data:
 
 - use 0000/ directory for now for books with missing/empty publication year - why? why not?
+- change `url` to `home_url` - why?  `url` is predefined in collections and is the url of the collection page itself!!!!!
 

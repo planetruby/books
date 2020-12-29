@@ -8,9 +8,9 @@ authors:
 - Bryan Helmkamp
 - Dan North
 year: 2010
-url: http://pragprog.com/book/achbd/the-rspec-book
 categories:
 - testing
 prices: ''
 editor: Pragmatic Bookshelf
+home_url: http://pragprog.com/book/achbd/the-rspec-book
 ---

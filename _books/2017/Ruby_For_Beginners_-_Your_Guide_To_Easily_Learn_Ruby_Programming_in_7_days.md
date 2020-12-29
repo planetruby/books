@@ -3,10 +3,10 @@ title: 'Ruby For Beginners: Your Guide To Easily Learn Ruby Programming in 7 day
 authors:
 - iCode Academy
 year: 2017
-url: https://www.amazon.com/gp/product/1521367701
 categories:
 - Rails
 - free
 prices: 'ebook: free, paperbook: $17'
 editor: Self Published
+home_url: https://www.amazon.com/gp/product/1521367701
 ---

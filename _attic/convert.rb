@@ -37,6 +37,12 @@ bookfiles.each_with_index do |path,i|
   data['year'] =  year.size > 0 ? year.to_i : nil
 
 
+  ## note: change url to home_url !!! - why?
+  ##    `url` is predefined in collections and is the url of the collection page itself!!!!!
+  data[ 'home_url' ] = data[ 'url' ]
+  data.delete( 'url' )
+
+
   year = "0000"    if year.size == 0  ## use for missing year - why? why not?
 
   puts "[#{i+1}/#{bookfiles.size}]  >#{year}<  >#{basename}<  >#{extname}<"

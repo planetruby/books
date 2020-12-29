@@ -4,9 +4,9 @@ authors:
 - Jeremy McAnally
 - Assaf Arkin
 year: 2009
-url: https://www.manning.com/books/ruby-in-practice
 categories:
 - examples
 prices: "$32"
 editor: Manning Publications
+home_url: https://www.manning.com/books/ruby-in-practice
 ---

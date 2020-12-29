@@ -3,10 +3,10 @@ title: Crystal for Rubyists
 authors:
 - Serdar Dogruyol
 year: 2016
-url: http://www.crystalforrubyists.com/
 categories:
 - Crystal
 - free
 prices: free
 editor: Self Published
+home_url: http://www.crystalforrubyists.com/
 ---

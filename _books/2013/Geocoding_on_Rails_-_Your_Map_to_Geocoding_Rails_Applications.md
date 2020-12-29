@@ -4,10 +4,10 @@ authors:
 - Josh Clayton
 - Laila Winner
 year: 2013
-url: https://gumroad.com/l/geocoding-on-rails
 categories:
 - Rails
 - maps
 prices: 'ebook: $20'
 editor: thoughtbot
+home_url: https://gumroad.com/l/geocoding-on-rails
 ---

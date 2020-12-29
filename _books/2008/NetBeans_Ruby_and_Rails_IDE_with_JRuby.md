@@ -4,11 +4,11 @@ authors:
 - Chris Kutler
 - Brian Leonard
 year: 2008
-url: http://www.apress.com/9781430216360
 categories:
 - Rails
 - JRuby
 - IDE
 prices: 'ebook: $20, paperbook: $30'
 editor: Apress
+home_url: http://www.apress.com/9781430216360
 ---

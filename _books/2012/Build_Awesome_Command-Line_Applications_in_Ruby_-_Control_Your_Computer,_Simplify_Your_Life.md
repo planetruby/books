@@ -4,9 +4,9 @@ title: 'Build Awesome Command-Line Applications in Ruby: Control Your Computer, 
 authors:
 - David Bryant Copeland
 year: 2012
-url: http://pragprog.com/book/dccar/build-awesome-command-line-applications-in-ruby
 categories:
 - scripting
 prices: ''
 editor: Pragmatic Bookshelf
+home_url: http://pragprog.com/book/dccar/build-awesome-command-line-applications-in-ruby
 ---

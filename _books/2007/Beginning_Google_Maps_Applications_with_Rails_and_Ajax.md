@@ -6,10 +6,10 @@ authors:
 - Jeffrey Sambells
 - Michael Purvis
 year: 2007
-url: http://www.apress.com/9781590597873
 categories:
 - Rails
 - maps
 prices: 'ebook: $25, paperbook: $35'
 editor: Apress
+home_url: http://www.apress.com/9781590597873
 ---

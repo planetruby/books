@@ -4,10 +4,10 @@ authors:
 - Jeff Cohen
 - Brian Eng
 year: 2008
-url: http://pragprog.com/book/cerailn/rails-for-net-developers
 categories:
 - Rails
 - Windows
 prices: ''
 editor: Pragmatic Bookshelf
+home_url: http://pragprog.com/book/cerailn/rails-for-net-developers
 ---

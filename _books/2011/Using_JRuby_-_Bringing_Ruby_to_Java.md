@@ -7,9 +7,9 @@ authors:
 - Ola Bini
 - Ian Dees
 year: 2011
-url: http://pragprog.com/book/jruby/using-jruby
 categories:
 - JRuby
 prices: ''
 editor: Pragmatic Bookshelf
+home_url: http://pragprog.com/book/jruby/using-jruby
 ---

@@ -5,9 +5,9 @@ authors:
 - Aslak Hellesoy
 - Steve Tooke
 year: 2017
-url: https://pragprog.com/book/hwcuc2/the-cucumber-book-second-edition
 categories:
 - testing
 prices: 'paper: $25, ebook: $40'
 editor: Pragmatic Bookshelf
+home_url: https://pragprog.com/book/hwcuc2/the-cucumber-book-second-edition
 ---

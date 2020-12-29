@@ -4,8 +4,8 @@ title: 'The ''minimul'' QuickBooks Online API Guide. Volume I: Best Practices Gu
 authors:
 - Christian Pelczarski
 year: 2017
-url: https://leanpub.com/minimul-qbo-guide-vol-1
 categories: []
 prices: 'ebook: $50'
 editor: Self Published
+home_url: https://leanpub.com/minimul-qbo-guide-vol-1
 ---

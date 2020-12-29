@@ -3,7 +3,6 @@ title: 'Objects on Rails: Notes on flexible web application design'
 authors:
 - Avdi Grimm
 year: 2012
-url: http://objectsonrails.com/
 categories:
 - Rails
 - Rails advanced
@@ -11,4 +10,5 @@ categories:
 - object-oriented programming
 prices: 'online: free, ebook: $5'
 editor: Self Published
+home_url: http://objectsonrails.com/
 ---

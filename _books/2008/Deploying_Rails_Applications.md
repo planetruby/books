@@ -5,10 +5,10 @@ authors:
 - Bruce Tate
 - Clinton Begin
 year: 2008
-url: https://pragprog.com/book/fr_deploy/deploying-rails-applications
 categories:
 - Rails
 - deployment
 prices: ''
 editor: Pragmatic Bookshelf
+home_url: https://pragprog.com/book/fr_deploy/deploying-rails-applications
 ---

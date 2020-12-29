@@ -5,9 +5,9 @@ authors:
 - Hafiz Badrie Lubis
 - Nia Mutiara
 year: 2013
-url: https://www.packtpub.com/application-development/learning-devise-rails
 categories:
 - Rails
 prices: 'ebook: $11.9, paperbook: $28'
 editor: Packt Publishing
+home_url: https://www.packtpub.com/application-development/learning-devise-rails
 ---

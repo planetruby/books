@@ -7,10 +7,10 @@ authors:
 - Milica Maksimović
 - Dunja Radulov
 year: 2018
-url: https://semaphoreci.com/ebooks/rails-testing-handbook
 categories:
 - free
 - testing
 prices: 'ebook: free'
 editor: Semaphore
+home_url: https://semaphoreci.com/ebooks/rails-testing-handbook
 ---

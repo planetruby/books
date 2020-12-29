@@ -4,10 +4,10 @@ authors:
 - Dave Thomas
 - Andy Hunt
 year: 2004
-url: http://ruby-doc.com/docs/ProgrammingRuby/
 categories:
 - free
 - reference
 prices: 'HTML: free'
 editor: Pragmatic Bookshelf
+home_url: http://ruby-doc.com/docs/ProgrammingRuby/
 ---

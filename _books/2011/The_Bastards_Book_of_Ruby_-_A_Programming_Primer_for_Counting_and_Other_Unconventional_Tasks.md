@@ -4,9 +4,9 @@ title: 'The Bastards Book of Ruby: A Programming Primer for Counting and Other U
 authors:
 - Dan Nguyen
 year: 2011
-url: http://ruby.bastardsbook.com/
 categories:
 - free
 prices: 'ebook: free'
 editor: Self Published
+home_url: http://ruby.bastardsbook.com/
 ---

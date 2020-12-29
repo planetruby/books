@@ -3,10 +3,10 @@ title: 'Crafting Rails Applications: Expert Practices for Everyday Rails Develop
 authors:
 - José Valim
 year: 2011
-url: http://pragprog.com/book/jvrails/crafting-rails-applications
 categories:
 - Rails
 - Rails advanced
 prices: ''
 editor: Pragmatic Bookshelf
+home_url: http://pragprog.com/book/jvrails/crafting-rails-applications
 ---

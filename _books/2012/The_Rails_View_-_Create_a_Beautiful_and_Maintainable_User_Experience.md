@@ -4,10 +4,10 @@ authors:
 - John Athayde
 - Bruce Williams
 year: 2012
-url: http://pragprog.com/book/warv/the-rails-view
 categories:
 - front-end
 - Rails
 prices: ''
 editor: Pragmatic Bookshelf
+home_url: http://pragprog.com/book/warv/the-rails-view
 ---

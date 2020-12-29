@@ -5,9 +5,9 @@ authors:
 - Lance Carlson
 - Curt Hibbs
 year: 2008
-url: http://shop.oreilly.com/product/9780596522018.do
 categories:
 - Rails
 prices: 'ebook: $24, paperbook: $30'
 editor: O'Reilly Media
+home_url: http://shop.oreilly.com/product/9780596522018.do
 ---

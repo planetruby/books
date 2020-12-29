@@ -4,9 +4,9 @@ authors:
 - Matt Pelletier
 - Zed Shaw
 year: 2006
-url: http://www.informit.com/store/mongrel-digital-shortcut-serving-deploying-and-extending-9780321483508
 categories:
 - deployment
 prices: 'ebook: $20'
 editor: Addison-Wesley Professional
+home_url: http://www.informit.com/store/mongrel-digital-shortcut-serving-deploying-and-extending-9780321483508
 ---

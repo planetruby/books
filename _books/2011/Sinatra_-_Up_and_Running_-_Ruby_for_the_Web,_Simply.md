@@ -4,9 +4,9 @@ authors:
 - Alan Harris
 - Konstantin Haase
 year: 2011
-url: http://shop.oreilly.com/product/0636920019664.do
 categories:
 - Sinatra
 prices: 'ebook: $17, paperbook: $20'
 editor: O'Reilly Media
+home_url: http://shop.oreilly.com/product/0636920019664.do
 ---

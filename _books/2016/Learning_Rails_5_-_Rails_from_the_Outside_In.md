@@ -5,10 +5,10 @@ authors:
 - Edd Dumbill
 - Mark Locklear
 year: 2016
-url: http://shop.oreilly.com/product/0636920039822.do
 categories:
 - Rails
 - beginner
 prices: 'ebook: $23, paperbook: $37'
 editor: O'Reilly Media
+home_url: http://shop.oreilly.com/product/0636920039822.do
 ---

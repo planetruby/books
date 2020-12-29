@@ -4,9 +4,9 @@ authors:
 - RunPaint
 - Cheng Guangnan
 year: 2010
-url: http://readruby.chengguangnan.com/
 categories:
 - free
 prices: free
 editor: Self Published
+home_url: http://readruby.chengguangnan.com/
 ---

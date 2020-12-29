@@ -4,11 +4,11 @@ authors:
 - Chad Pytel
 - Tammer Saleh
 year: 2010
-url: http://www.informit.com/store/rails-antipatterns-best-practice-ruby-on-rails-refactoring-9780321604811
 categories:
 - Rails
 - Rails advanced
 - refactoring
 prices: 'ebook: $36, paperbook: $45'
 editor: Addison-Wesley Professional
+home_url: http://www.informit.com/store/rails-antipatterns-best-practice-ruby-on-rails-refactoring-9780321604811
 ---

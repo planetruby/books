@@ -5,9 +5,9 @@ authors:
 - Chad Fowler
 - Andy Hunt
 year: 2009
-url: http://pragprog.com/book/ruby3/programming-ruby-1-9
 categories:
 - reference
 prices: ''
 editor: Pragmatic Bookshelf
+home_url: http://pragprog.com/book/ruby3/programming-ruby-1-9
 ---

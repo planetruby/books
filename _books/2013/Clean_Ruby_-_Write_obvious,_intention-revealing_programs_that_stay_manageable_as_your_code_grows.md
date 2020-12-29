@@ -4,9 +4,9 @@ title: 'Clean Ruby: Write obvious, intention-revealing programs that stay manage
 authors:
 - Jim Gay
 year: 2013
-url: http://www.clean-ruby.com/
 categories:
 - object-oriented programming
 prices: 'ebook: $49, plus version: $99'
 editor: Self Published
+home_url: http://www.clean-ruby.com/
 ---

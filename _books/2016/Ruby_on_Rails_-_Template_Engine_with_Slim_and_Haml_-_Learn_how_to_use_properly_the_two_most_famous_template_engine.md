@@ -4,10 +4,10 @@ title: 'Ruby on Rails: Template Engine with Slim and Haml: Learn how to use prop
 authors:
 - Thiago T. S. Neves
 year: 2016
-url: https://www.amazon.com/gp/product/B01HP5A40S
 categories:
 - Rails
 - front-end
 prices: 'ebook: $2'
 editor: Self Published
+home_url: https://www.amazon.com/gp/product/B01HP5A40S
 ---

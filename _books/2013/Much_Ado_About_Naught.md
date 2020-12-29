@@ -3,9 +3,9 @@ title: Much Ado About Naught
 authors:
 - Avdi Grimm
 year: 2013
-url: http://devblog.avdi.org/introduction-to-much-ado-about-naught/
 categories:
 - metaprogramming
 prices: 'ebook: $15'
 editor: Self Published
+home_url: http://devblog.avdi.org/introduction-to-much-ado-about-naught/
 ---

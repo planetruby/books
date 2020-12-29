@@ -5,9 +5,9 @@ authors:
 - Chad Fowler
 - Andy Hunt
 year: 2013
-url: http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0
 categories:
 - reference
 prices: 'ebook: $28, paperbook: $50'
 editor: Pragmatic Bookshelf
+home_url: http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0
 ---

@@ -3,10 +3,10 @@ title: 'Deploying with JRuby 9k: Deliver Scalable Web Apps using the JVM'
 authors:
 - Joe Kutner
 year: 2016
-url: https://pragprog.com/book/jkdepj2/deploying-with-jruby-9k
 categories:
 - JRuby
 - deployment
 prices: 'ebook: $16, book: $26'
 editor: Pragmatic Bookshelf
+home_url: https://pragprog.com/book/jkdepj2/deploying-with-jruby-9k
 ---

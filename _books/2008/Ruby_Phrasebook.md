@@ -3,9 +3,9 @@ title: Ruby Phrasebook
 authors:
 - Jason D. Clinton
 year: 2008
-url: http://www.informit.com/store/ruby-phrasebook-9780672328978
 categories:
 - examples
 prices: 'paperbook: $30'
 editor: Addison-Wesley Professional
+home_url: http://www.informit.com/store/ruby-phrasebook-9780672328978
 ---

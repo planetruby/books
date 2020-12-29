@@ -3,9 +3,9 @@ title: Ruby DSL Handbook
 authors:
 - Jim Gay
 year: 2015
-url: http://clean-ruby.com/dsl
 categories:
 - DSL
 prices: 'ebook: $24, plus package: $47, complete package $119, team package $599'
 editor: Self Published
+home_url: http://clean-ruby.com/dsl
 ---

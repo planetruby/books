@@ -4,9 +4,9 @@ authors:
 - Sudeep Agarwal
 - Manoj Sehrawat
 year: 2016
-url: https://www.packtpub.com/web-development/learning-sinatra
 categories:
 - Sinatra
 prices: 'ebook: $29'
 editor: Packt Publishing
+home_url: https://www.packtpub.com/web-development/learning-sinatra
 ---

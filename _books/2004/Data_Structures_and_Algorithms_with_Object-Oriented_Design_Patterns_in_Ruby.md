@@ -3,10 +3,10 @@ title: Data Structures and Algorithms with Object-Oriented Design Patterns in Ru
 authors:
 - Bruno R. Preiss
 year: 2004
-url: https://web.archive.org/web/20160310160256fw_/http://www.brpreiss.com:80/books/opus8/html/book.html
 categories:
 - free
 - algorithms
 prices: free
 editor: Self Published
+home_url: https://web.archive.org/web/20160310160256fw_/http://www.brpreiss.com:80/books/opus8/html/book.html
 ---

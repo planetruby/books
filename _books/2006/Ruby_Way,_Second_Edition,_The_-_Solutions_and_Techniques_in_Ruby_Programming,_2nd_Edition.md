@@ -4,8 +4,8 @@ title: 'Ruby Way, Second Edition, The: Solutions and Techniques in Ruby Programm
 authors:
 - Hal Fulton
 year: 2006
-url: http://www.informit.com/store/ruby-way-second-edition-solutions-and-techniques-in-9780672328848
 categories: []
 prices: ''
 editor: Addison-Wesley Professional
+home_url: http://www.informit.com/store/ruby-way-second-edition-solutions-and-techniques-in-9780672328848
 ---

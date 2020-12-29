@@ -3,9 +3,9 @@ title: 'FXRuby: Create Lean and Mean GUIs with Ruby'
 authors:
 - Lyle Johnson
 year: 2008
-url: http://pragprog.com/book/fxruby/fxruby
 categories:
 - GUI
 prices: ''
 editor: Pragmatic Bookshelf
+home_url: http://pragprog.com/book/fxruby/fxruby
 ---

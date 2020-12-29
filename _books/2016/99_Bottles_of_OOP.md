@@ -4,9 +4,9 @@ authors:
 - Sandi Metz
 - Katrina Owen
 year: 2016
-url: http://www.sandimetz.com/99bottles
 categories:
 - object-oriented programming
 prices: 'ebook: $49'
 editor: Self Published
+home_url: http://www.sandimetz.com/99bottles
 ---

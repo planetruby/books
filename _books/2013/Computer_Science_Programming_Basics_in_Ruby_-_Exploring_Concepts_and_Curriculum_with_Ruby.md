@@ -6,9 +6,9 @@ authors:
 - Gideon Frieder
 - David Grossman
 year: 2013
-url: http://shop.oreilly.com/product/0636920028192.do
 categories:
 - algorithms
 prices: 'ebook: $22, paperbook: $25'
 editor: O'Reilly Media
+home_url: http://shop.oreilly.com/product/0636920028192.do
 ---

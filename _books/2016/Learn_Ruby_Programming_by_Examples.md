@@ -4,9 +4,9 @@ authors:
 - Zhimin Zhan
 - Courtney Zhan
 year: 2016
-url: https://leanpub.com/learn_ruby_programming_by_examples_en
 categories:
 - examples
 prices: 'ebook: $10 minimum, $20 suggested'
 editor: Self Published
+home_url: https://leanpub.com/learn_ruby_programming_by_examples_en
 ---

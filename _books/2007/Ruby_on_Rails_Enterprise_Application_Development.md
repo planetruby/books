@@ -4,9 +4,9 @@ authors:
 - Elliot Smith
 - Rob Nichols
 year: 2007
-url: https://www.packtpub.com/web-development/ruby-rails-enterprise-application-development-plan-program-extend
 categories:
 - Rails
 prices: 'ebook: $16.8, paperbook: $46'
 editor: Packt Publishing
+home_url: https://www.packtpub.com/web-development/ruby-rails-enterprise-application-development-plan-program-extend
 ---

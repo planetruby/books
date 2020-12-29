@@ -5,9 +5,9 @@ authors:
 - Dave Thomas
 - David Heinemeier Hansson
 year: 2009
-url: http://pragprog.com/book/rails3/agile-web-development-with-rails
 categories:
 - Rails
 prices: ''
 editor: Pragmatic Bookshelf
+home_url: http://pragprog.com/book/rails3/agile-web-development-with-rails
 ---

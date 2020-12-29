@@ -4,9 +4,9 @@ authors:
 - Ryan Bigg
 - Yehuda Katz
 year: 2011
-url: https://www.manning.com/books/rails-3-in-action
 categories:
 - Rails
 prices: n/a
 editor: Manning Publications
+home_url: https://www.manning.com/books/rails-3-in-action
 ---

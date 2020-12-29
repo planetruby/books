@@ -4,9 +4,9 @@ authors:
 - Bruce A. Tate
 - Curt Hibbs
 year: 2006
-url: http://shop.oreilly.com/product/9780596101329.do
 categories:
 - Rails
 prices: 'ebook: $24'
 editor: O'Reilly Media
+home_url: http://shop.oreilly.com/product/9780596101329.do
 ---

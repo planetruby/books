@@ -4,8 +4,8 @@ title: 'Self-education for Web Developers: What to Begin With and Where to Move 
 authors:
 - Kirill Shirinkin
 year: 2015
-url: https://www.amazon.com/gp/product/B017632IYY
 categories: []
 prices: 'ebook: $10'
 editor: Self Published
+home_url: https://www.amazon.com/gp/product/B017632IYY
 ---

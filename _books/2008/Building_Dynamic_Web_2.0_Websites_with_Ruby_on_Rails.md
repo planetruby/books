@@ -3,9 +3,9 @@ title: Building Dynamic Web 2.0 Websites with Ruby on Rails
 authors:
 - A P Rajshekhar
 year: 2008
-url: https://www.packtpub.com/web-development/building-dynamic-web-20-websites-ruby-rails
 categories:
 - Rails
 prices: 'ebook: $11.9, paperbook: $27'
 editor: Packt Publishing
+home_url: https://www.packtpub.com/web-development/building-dynamic-web-20-websites-ruby-rails
 ---

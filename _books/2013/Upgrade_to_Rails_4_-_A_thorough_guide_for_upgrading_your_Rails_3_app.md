@@ -3,10 +3,10 @@ title: 'Upgrade to Rails 4: A thorough guide for upgrading your Rails 3 app'
 authors:
 - Philip De Smedt
 year: 2013
-url: https://leanpub.com/upgradetorails4
 categories:
 - Rails
 - Rails upgrade
 prices: 'ebook: $10 minimum, $18 suggested'
 editor: Self Published
+home_url: https://leanpub.com/upgradetorails4
 ---

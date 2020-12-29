@@ -6,9 +6,9 @@ authors:
 - Martin Fowler
 - Kent Beck
 year: 2009
-url: http://www.informit.com/store/refactoring-ruby-edition-9780321603500
 categories:
 - refactoring
 prices: 'ebook: $40'
 editor: Addison-Wesley Professional
+home_url: http://www.informit.com/store/refactoring-ruby-edition-9780321603500
 ---

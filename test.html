@@ -35,7 +35,7 @@
      data-authors="{{ book.authors | join: ' • ' }}"
      data-editor="{{ book.editor }}">
 
-   <h3> <a href="{{ book.url }}">{{ book.title | truncate: 40 }}</a> </h3>
+   <h3> <a href="{{ book.home_url }}">{{ book.title | truncate: 40 }}</a> </h3>
         <p>
           {% for category in book.categories %}
             {{ category }}
