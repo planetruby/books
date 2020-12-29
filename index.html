@@ -137,34 +137,34 @@
 
     <div id="books-grid" class="container">
       <div class="row">
-        <% books.each do |book| %>
+        {% for book in books %}
           <div class="col-md-4">
-            <div class="thumbnail book" data-categories='<%= book["categories"] %>' data-authors='<%= book["authors"] %>' data-editor="<%= book['editor'] %>">
+            <div class="thumbnail book" data-categories="{{ book.categories | join: ' • ' }}"
+                                        data-authors="{{ book.authors | join: ' • ' }}"
+                                        data-editor="{{ book.editor }}">
               <div class="caption">
-                <h3> <a href="<%= book["url"] %>">
-                  <%= if book["title"].size > 40
-                        book["title"].slice(0..40) + "..."
-                      else
-                        book["title"]
-                      end %>
-                </a> </h3>
+                <h3> <a href="{{ book.url }}">{{ book.title | truncate: 40 }}</a> </h3>
                 <p>
-                  <% book["categories"].each do |category| %>
-                    <a href="?category=<%= category %>"><span class="label label-default"><%= category %></span></a>
-                  <% end %>
+                  {% for category in book.categories %}
+                    <a href="?category={{ category }}"><span class="label label-default">{{ category }}</span></a>
+                  {% endfor %}
                 </p>
-                <p class="authors"><%=
-                  book["authors"].map { |author| "<a class='author' href='?author=#{author}'>#{author}</a>" }.join(", ")
-                %></p>
+                <p class="authors">
+                  {% for author in book.authors %}
+                    <a class='author' href='?author={{ author}}'>{{author}}</a>{% unless forloop.last %},{% endunless %}
+                  {% endfor %}
+                </p>
               <p class="editor-year">
-                <a class='author' href="?editor=<%= book['editor'] %>"><%= book['editor'] %></a>, <%= book["year"] %>
+                <a class='author' href="?editor={{ book.editor }}">{{ book.editor }}</a>, {{ book.year }}
               </p>
-              <p><%= book["prices"] %></p>
-              <p class='info'>info last updated on <%= book['updated_on'] %></p>
+              <p>{{ book.prices }}</p>
+              <!--
+               <p class='info'>info last updated on {{ book.updated_on }}</p>
+              -->
               </div>
             </div>
           </div>
-        <% end %>
+        {% endfor %}
       </div>
     </div>
 
@@ -180,13 +180,7 @@
             <p>Prices are indicative and may be incorrect.</p>
             <p>You are more than welcome to add new books, correct book information, suggest new categories, etc..</p>
             <p>
-              You can contribute at <a href="https://github.com/Florent2/ruby-books">the ruby-books git repository</a> through pull requests, or email me directly at
-              <script language="JavaScript">
-                var username = "contact";
-                var hostname = "florentguilleux.fr";
-                var linktext = username + "@" + hostname;
-                document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>.");
-              </script>
+              You can contribute at <a href="https://github.com/planetruby/books">the books git repository @ planet ruby</a>through pull requests.
             </p>
             <p>Thanks!</p>
                                         </div>

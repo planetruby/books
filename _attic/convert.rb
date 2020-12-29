@@ -37,7 +37,7 @@ bookfiles.each_with_index do |path,i|
   data['year'] =  year.size > 0 ? year.to_i : nil
 
 
-  year = "YYYY"    if year.size == 0  ## use for missing year - why? why not?
+  year = "0000"    if year.size == 0  ## use for missing year - why? why not?
 
   puts "[#{i+1}/#{bookfiles.size}]  >#{year}<  >#{basename}<  >#{extname}<"
 

@@ -17,5 +17,5 @@ On filenames:
 
 On book data:
 
-- use YYYY/ directory for now for books with missing/empty publication year - why? why not?
+- use 0000/ directory for now for books with missing/empty publication year - why? why not?
 
