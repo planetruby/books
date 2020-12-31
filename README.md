@@ -1,5 +1,19 @@
 # All Ruby Books
 
+About:
+
+This is a list of English books about the Ruby programming language.
+
+Prices are indicative and may be incorrect.
+
+You are more than welcome to add new books, correct book information, suggest new categories, etc.
+
+You can contribute at the books git repository @ planet ruby right here through pull requests.
+
+Thanks!
+
+---
+
 This is the data source (in YAML) of the All Ruby Books website / page.
 
 The book collection was started by [Florent Guilleux](https://github.com/Florent2) in 2016.  Thanks! Merci!
