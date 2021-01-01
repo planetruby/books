@@ -1,14 +1,16 @@
+
+Formerly published @ [`www.allrubybooks.com`](http://www.allrubybooks.com/) now @ [`planetruby.github.io/books`](http://planetruby.github.io/books).
+
+
 # All Ruby Books
 
-About:
+A list of books about the Ruby programming language (in English).
 
-This is a list of English books about the Ruby programming language.
-
-Prices are indicative and may be incorrect.
+Note: Prices are indicative and may be incorrect.
 
 You are more than welcome to add new books, correct book information, suggest new categories, etc.
 
-You can contribute at the books git repository @ planet ruby right here through pull requests.
+You can contribute right here at the books git repository through pull requests.
 
 Thanks!
 
@@ -42,8 +44,4 @@ categories:
 prices: 'paperbook: $25'
 editor: Self Published
 ```
-
-
-
-Formerly published @ [`www.allrubybooks.com`](http://www.allrubybooks.com/) now @ [`planetruby.github.io/books`](http://planetruby.github.io/books).
 
