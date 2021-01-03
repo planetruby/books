@@ -1,11 +1,11 @@
 ---
 title: Build Your Own Sinatra
 authors:
-- K-2052
+- Kay ?       ## name missing
 year: 2015
 categories:
 - Sinatra
 prices: 'ebook: $35'
 editor: Self Published
-home_url: http://buildyourownsinatra.com/
+home_url: https://getgood.at/build-your-own/sinatra
 ---
