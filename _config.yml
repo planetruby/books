@@ -6,6 +6,8 @@ collections:
 exclude:
 - README.md
 - NOTES.md
-- _attic
+- LICENSE.md
+
+
 
 
