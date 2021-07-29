@@ -6,5 +6,5 @@ year: 2015
 categories: []
 prices: "$49"
 editor: Self Published
-home_url: https://www.blackbytes.info/ruby-book/
+home_url: https://www.rubyguides.com/ruby-book/
 ---
