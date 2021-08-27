@@ -1,5 +1,5 @@
 
-Formerly published @ [`www.allrubybooks.com`](http://www.allrubybooks.com/) now @ [`planetruby.github.io/books`](http://planetruby.github.io/books).
+Formerly published @ ~www.allrubybooks.com~ now @ [`planetruby.github.io/books`](http://planetruby.github.io/books).
 
 
 # All Ruby Books
