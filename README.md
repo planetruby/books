@@ -25,8 +25,9 @@ Contributions welcome! Just send pull requests.
 
 
 Look in the [`_books/`](_books) directory for all book datafiles ordered
-by publishing year (e.g. [`2021/`](_books/2021), [`2020/`](_books/2020), etc.).
+by publishing year (e.g. [`2023/`](_books/2023), [`2022/`](_books/2022), etc.).
 One book one datafile (in YAML). Example:
+
 
 
 ``` yaml
