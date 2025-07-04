@@ -1,8 +1,8 @@
 ---
 title: 'Programming Ruby 3.3 (5th edition): The Pragmatic Programmers'' Guide'
 authors:
-- Dave Thomas
 - Noel Rappin
+- Dave Thomas
 year: 2024
 categories:
 - reference
